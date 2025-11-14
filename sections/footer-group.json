@@ -40,7 +40,7 @@
         "1c647602-cc00-4009-a058-976435c8ee9e": {
           "type": "link_list",
           "settings": {
-            "heading": "Legal Information",
+            "heading": "LEGAL INFORMATION",
             "menu": "footer",
             "width_desktop": 4,
             "width_mobile": "1"
@@ -49,7 +49,7 @@
         "text_Y8WFxc": {
           "type": "text",
           "settings": {
-            "heading": "Customer Service",
+            "heading": "CUSTOMER SERVICE",
             "subtext": "<p><strong>Email</strong>: <br/>hello@solydia.com</p><p><strong>Hours</strong>:<strong> </strong>Monday to Friday from 9 AM to 12 PM and 2 PM to 6 PM / Saturday and Sunday from 10 AM to 12 PM</p>",
             "width_desktop": 3,
             "width_mobile": "2"
