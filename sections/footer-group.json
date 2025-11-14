@@ -44,12 +44,22 @@
             "width_desktop": 4,
             "width_mobile": "1"
           }
+        },
+        "text_Y8WFxc": {
+          "type": "text",
+          "settings": {
+            "heading": "Customer Service",
+            "subtext": "<p>Share contact information, store details, and brand content with your customers.</p>",
+            "width_desktop": 3,
+            "width_mobile": "2"
+          }
         }
       },
       "block_order": [
         "fc645871-d789-4cfa-8584-4f8a29b6ce92",
         "24f208fd-0898-43eb-af23-d74f8420ab37",
-        "1c647602-cc00-4009-a058-976435c8ee9e"
+        "1c647602-cc00-4009-a058-976435c8ee9e",
+        "text_Y8WFxc"
       ],
       "settings": {
         "color_scheme": "accent-1",
