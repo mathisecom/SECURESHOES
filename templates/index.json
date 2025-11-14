@@ -88,9 +88,76 @@
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff"
       }
+    },
+    "logo_list_Vrwkj3": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_gEd4xW": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/celuieaaz.avif",
+            "link": "",
+            "target_blank": false
+          }
+        },
+        "logo_HQJL9d": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/gq_logo.webp",
+            "link": "",
+            "target_blank": false
+          }
+        },
+        "logo_3tgFrP": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/forbes2.svg",
+            "link": "",
+            "target_blank": false
+          }
+        },
+        "logo_JDc7Ck": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/natgeo_logo.webp",
+            "link": "",
+            "target_blank": false
+          }
+        }
+      },
+      "block_order": [
+        "logo_gEd4xW",
+        "logo_HQJL9d",
+        "logo_3tgFrP",
+        "logo_JDc7Ck"
+      ],
+      "name": "Featured on",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Featured on",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h2",
+        "gray_logos": false,
+        "color_scheme": "background-1",
+        "layout": "horizontal",
+        "desktop_logo_height": 50,
+        "columns_mobile": 2,
+        "mobile_logo_height": 50,
+        "mobile_slider": true,
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "show_dots": false,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#121212"
+      }
     }
   },
   "order": [
-    "contact_form_WHP8G7"
+    "contact_form_WHP8G7",
+    "logo_list_Vrwkj3"
   ]
 }
