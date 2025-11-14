@@ -158,6 +158,21 @@
     "featured_product_3kwPdC": {
       "type": "featured-product",
       "blocks": {
+        "trustpilot_stars_WwGE79": {
+          "type": "trustpilot_stars",
+          "settings": {
+            "rating": 5,
+            "star_color": "#00b67a",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#ffffff",
+            "label": "(xxxx Reviews)",
+            "size": 14,
+            "alignment": "flex-start",
+            "scroll_id": "",
+            "margin_top": 15,
+            "margin_bottom": 15
+          }
+        },
         "title_CqV3UY": {
           "type": "title",
           "settings": {
@@ -332,13 +347,13 @@
         }
       },
       "block_order": [
+        "trustpilot_stars_WwGE79",
         "title_CqV3UY",
         "price_ARgakK",
         "variant_picker_WzU7za",
         "quantity_selector_T3xGiY",
         "buy_buttons_PgiGKn"
       ],
-      "disabled": true,
       "name": "t:sections.featured-product.presets.name",
       "settings": {
         "display_id": false,
