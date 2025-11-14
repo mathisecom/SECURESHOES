@@ -1241,7 +1241,7 @@
         "collapsible_row_pwgngB": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "What size should I order?",
             "icon": "",
             "filled_icon": false,
             "row_content": "",
@@ -1251,7 +1251,7 @@
         "collapsible_row_UzwcLB": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Are the shoes really safe despite their sneaker look?",
             "icon": "",
             "filled_icon": false,
             "row_content": "",
@@ -1261,7 +1261,7 @@
         "collapsible_row_yVqjwW": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Are they suitable for long periods of standing or walking?",
             "icon": "",
             "filled_icon": false,
             "row_content": "",
@@ -1271,7 +1271,27 @@
         "collapsible_row_be6mxe": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "What are the shipping costs?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_zVaKfE": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How long will it take to receive my order?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_ecVegd": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I return my order if I’m not satisfied?",
             "icon": "",
             "filled_icon": false,
             "row_content": "",
@@ -1283,7 +1303,9 @@
         "collapsible_row_pwgngB",
         "collapsible_row_UzwcLB",
         "collapsible_row_yVqjwW",
-        "collapsible_row_be6mxe"
+        "collapsible_row_be6mxe",
+        "collapsible_row_zVaKfE",
+        "collapsible_row_ecVegd"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
