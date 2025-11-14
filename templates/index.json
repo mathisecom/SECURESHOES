@@ -879,8 +879,9 @@
           "settings": {
             "icon": "check_circle",
             "filled_icon": false,
+            "image": "shopify://shop_images/1.webp",
             "title": "Icon",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<p>"
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p><p></p>"
           }
         },
         "column_P3LcgC": {
@@ -888,8 +889,9 @@
           "settings": {
             "icon": "check_circle",
             "filled_icon": false,
+            "image": "shopify://shop_images/3.webp",
             "title": "Icon",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<p>"
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p><p></p>"
           }
         },
         "column_KCd4Yd": {
@@ -897,8 +899,9 @@
           "settings": {
             "icon": "check_circle",
             "filled_icon": false,
+            "image": "shopify://shop_images/4.webp",
             "title": "Icon",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<p>"
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p><p></p>"
           }
         },
         "column_7FR9EU": {
@@ -906,8 +909,9 @@
           "settings": {
             "icon": "check_circle",
             "filled_icon": false,
+            "image": "shopify://shop_images/2.webp",
             "title": "Icon",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<p>"
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p><p></p>"
           }
         }
       },
