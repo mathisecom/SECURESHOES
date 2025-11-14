@@ -712,10 +712,10 @@
             "margin_bottom": 0
           }
         },
-        "collapsible_tab_rYTnLj": {
+        "collapsible_tab_RCwniM": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Warranty & Returns",
+            "heading": "Shipping & Tracking",
             "heading_size": "medium",
             "icon": "",
             "filled_icon": false,
@@ -728,10 +728,10 @@
             "margin_bottom": 0
           }
         },
-        "collapsible_tab_RCwniM": {
+        "collapsible_tab_rYTnLj": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Shipping & Tracking",
+            "heading": "Warranty & Returns",
             "heading_size": "medium",
             "icon": "",
             "filled_icon": false,
@@ -756,8 +756,8 @@
         "collapsible_tab_P7gNgh",
         "collapsible_tab_ceDhm3",
         "collapsible_tab_VkBg4A",
-        "collapsible_tab_rYTnLj",
-        "collapsible_tab_RCwniM"
+        "collapsible_tab_RCwniM",
+        "collapsible_tab_rYTnLj"
       ],
       "name": "t:sections.featured-product.presets.name",
       "settings": {
