@@ -842,6 +842,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
+        "image": "shopify://shop_images/Titre_19_d55f873b-7a02-4164-bca7-0b6e125fc384.jpg",
         "video_autoplay": true,
         "video_loop": true,
         "height": "adapt",
