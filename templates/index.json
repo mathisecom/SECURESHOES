@@ -1141,22 +1141,32 @@
             "others_2": false,
             "others_3": false
           }
+        },
+        "row_mBhBc4": {
+          "type": "row",
+          "settings": {
+            "benefit": "<strong>Benefit</strong>",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
         }
       },
       "block_order": [
         "row_4MxTt7",
         "row_rtdnaW",
-        "row_f6pYhj"
+        "row_f6pYhj",
+        "row_mBhBc4"
       ],
-      "disabled": true,
       "name": "Comparison table",
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "Comparison table",
-        "title_highlight_color": "#6D388B",
-        "heading_size": "h1",
-        "text": "<p>Talk about how and why is your brand better than the others.</p>",
+        "title": "THE BENEFITS THAT <strong>MAKE THE DIFFERENCE</strong>",
+        "title_highlight_color": "#ffd705",
+        "heading_size": "h2",
+        "text": "",
         "button_label": "",
         "link": "",
         "button_style_secondary": false,
@@ -1221,37 +1231,37 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Collapsible row",
-            "icon": "check_box",
+            "icon": "",
             "filled_icon": false,
             "row_content": "",
             "page": ""
           }
         },
-        "collapsible_row_e7FDT3": {
+        "collapsible_row_UzwcLB": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Collapsible row",
-            "icon": "check_box",
+            "icon": "",
             "filled_icon": false,
             "row_content": "",
             "page": ""
           }
         },
-        "collapsible_row_RwmQ6U": {
+        "collapsible_row_yVqjwW": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Collapsible row",
-            "icon": "check_box",
+            "icon": "",
             "filled_icon": false,
             "row_content": "",
             "page": ""
           }
         },
-        "collapsible_row_biBFrP": {
+        "collapsible_row_be6mxe": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Collapsible row",
-            "icon": "check_box",
+            "icon": "",
             "filled_icon": false,
             "row_content": "",
             "page": ""
@@ -1260,9 +1270,9 @@
       },
       "block_order": [
         "collapsible_row_pwgngB",
-        "collapsible_row_e7FDT3",
-        "collapsible_row_RwmQ6U",
-        "collapsible_row_biBFrP"
+        "collapsible_row_UzwcLB",
+        "collapsible_row_yVqjwW",
+        "collapsible_row_be6mxe"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
