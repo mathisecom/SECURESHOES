@@ -1041,6 +1041,150 @@
         "custom_section_colors_background": "#ffffff",
         "custom_section_gradient_background": ""
       }
+    },
+    "image_with_text_wjFxY9": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_RyCMDN": {
+          "type": "heading",
+          "settings": {
+            "title": "PERFECT FIT <strong>IN SECONDS</strong>",
+            "title_highlight_color": "#ffd705",
+            "heading_size": "h2"
+          }
+        },
+        "text_VVQfMQ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our patented rotary system gives you a professional fit in just 2 seconds flat, surgical precision, unshakeable support, and fully personalized comfort.</p><p>Designed for men who don’t have time to waste on poorly engineered details. One simple move, and you’re ready to own your day.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_98nP9X": {
+          "type": "button",
+          "settings": {
+            "button_label": "BUY NOW",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_RyCMDN",
+        "text_VVQfMQ",
+        "button_98nP9X"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "video_autoplay": true,
+        "video_loop": true,
+        "height": "adapt",
+        "color_scheme": "inverse",
+        "section_color_scheme": "inverse",
+        "full_desktop_width": false,
+        "content_layout": "no-overlap",
+        "desktop_media_width": 50,
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": false,
+        "mobile_direction": "normal",
+        "mobile_image_quanlity": "2",
+        "mobile_content_alignment": "left",
+        "mobile_padding_top": 32,
+        "mobile_padding_bottom": 24,
+        "desktop_padding_top": 36,
+        "desktop_padding_bottom": 36,
+        "custom_colors_background": "#2e2a39",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#ffffff",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_section_colors_background": "#ffffff",
+        "custom_section_gradient_background": ""
+      }
+    },
+    "collapsible_content_KJXVzC": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_pwgngB": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_e7FDT3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_RwmQ6U": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_biBFrP": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_pwgngB",
+        "collapsible_row_e7FDT3",
+        "collapsible_row_RwmQ6U",
+        "collapsible_row_biBFrP"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "caption": "",
+        "title": "FAQ",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "video_muted_autoplay": true,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "row_heading_size": "medium",
+        "collapse_icon": "carret",
+        "display_top_border": true,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_contaner_colors_background": "#FFFFFF",
+        "custom_container_gradient_background": "",
+        "custom_contaner_colors_text": "#2E2A39"
+      }
     }
   },
   "order": [
@@ -1054,6 +1198,8 @@
     "featured_product_3kwPdC",
     "image_with_text_HbAdQU",
     "icon_bar_ca8BfD",
-    "image_with_text_ynjNUT"
+    "image_with_text_ynjNUT",
+    "image_with_text_wjFxY9",
+    "collapsible_content_KJXVzC"
   ]
 }
