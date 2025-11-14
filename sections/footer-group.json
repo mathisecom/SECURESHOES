@@ -17,8 +17,9 @@
         "fc645871-d789-4cfa-8584-4f8a29b6ce92": {
           "type": "image",
           "settings": {
-            "image_width": 100,
-            "alignment": "center",
+            "image": "shopify://shop_images/Logo_3_1.png",
+            "image_width": 170,
+            "alignment": "",
             "url": "",
             "width_desktop": 2,
             "width_mobile": "2"
