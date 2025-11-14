@@ -25,11 +25,18 @@
           "settings": {
             "title": "15,000+ SATISFIED PROFESSIONALS"
           }
+        },
+        "text_zVnVn8": {
+          "type": "text",
+          "settings": {
+            "title": "FREE TRACKED SHIPPING"
+          }
         }
       },
       "block_order": [
         "text_73ikLb",
-        "sections--18060430639399__2c2ec774-3430-481f-b927-e9c035b9d24e-1679250655d32e639c-0"
+        "sections--18060430639399__2c2ec774-3430-481f-b927-e9c035b9d24e-1679250655d32e639c-0",
+        "text_zVnVn8"
       ],
       "settings": {
         "visibility": "always-display",
