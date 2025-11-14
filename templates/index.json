@@ -1056,7 +1056,7 @@
         "text_VVQfMQ": {
           "type": "text",
           "settings": {
-            "text": "<p>Our patented rotary system gives you a professional fit in just 2 seconds flat, surgical precision, unshakeable support, and fully personalized comfort.</p><p>Designed for men who don’t have time to waste on poorly engineered details. One simple move, and you’re ready to own your day.</p>",
+            "text": "<p>If our shoes don’t completely transform your work experience, return them within 30 days.<br/><br/><strong>Full refund, no questions asked. Because your comfort at work should never be negotiable.</strong></p>",
             "text_style": "body"
           }
         },
@@ -1266,10 +1266,10 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "caption": "",
+        "caption": "VOUS AVEZ UNE QUESTION ?",
         "title": "FAQ",
         "title_highlight_color": "#6D388B",
-        "heading_size": "h2",
+        "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "none",
         "color_scheme": "background-1",
