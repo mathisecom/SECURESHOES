@@ -118,7 +118,6 @@
         },
         "logo_JDc7Ck": {
           "type": "logo",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/natgeo_logo.webp",
             "link": "",
