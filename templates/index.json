@@ -646,36 +646,6 @@
             "margin_bottom": 24
           }
         },
-        "reviews_8YAgzG": {
-          "type": "reviews",
-          "settings": {
-            "color_scheme": "background-1",
-            "show_custom_bg": false,
-            "custom_bg_color": "#f2f2f2",
-            "corner_radius": 12,
-            "border_width": 0,
-            "border_color": "#b7b7b7",
-            "avatar_alignment": "top",
-            "avatar_corner_radius": 40,
-            "star_color": "#00b67a",
-            "stars_translate": 0,
-            "checkmark_color": "#6d388b",
-            "checkmark_icon_color": "#ffffff",
-            "slider_type": "slide",
-            "autoplay": false,
-            "autoplay_speed": 5,
-            "display_arrows": true,
-            "display_dots": false,
-            "author_1": "<em>Author</em> [stars]",
-            "text_1": "<p>Share positive thoughts and feedback from your customer.</p>",
-            "author_2": "<em>Author</em> [stars]",
-            "text_2": "<p>Share positive thoughts and feedback from your customer.</p>",
-            "author_3": "<em>Author</em> [stars]",
-            "text_3": "<p>Share positive thoughts and feedback from your customer.</p>",
-            "margin_top": 24,
-            "margin_bottom": 24
-          }
-        },
         "shipping_checkpoints_XYpcgC": {
           "type": "shipping_checkpoints",
           "settings": {
@@ -705,6 +675,36 @@
             "days_labels": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
             "months_labels": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
             "color_scheme": "inverse",
+            "margin_top": 24,
+            "margin_bottom": 24
+          }
+        },
+        "reviews_8YAgzG": {
+          "type": "reviews",
+          "settings": {
+            "color_scheme": "background-1",
+            "show_custom_bg": false,
+            "custom_bg_color": "#f2f2f2",
+            "corner_radius": 12,
+            "border_width": 0,
+            "border_color": "#b7b7b7",
+            "avatar_alignment": "top",
+            "avatar_corner_radius": 40,
+            "star_color": "#00b67a",
+            "stars_translate": 0,
+            "checkmark_color": "#6d388b",
+            "checkmark_icon_color": "#ffffff",
+            "slider_type": "slide",
+            "autoplay": false,
+            "autoplay_speed": 5,
+            "display_arrows": true,
+            "display_dots": false,
+            "author_1": "<em>Author</em> [stars]",
+            "text_1": "<p>Share positive thoughts and feedback from your customer.</p>",
+            "author_2": "<em>Author</em> [stars]",
+            "text_2": "<p>Share positive thoughts and feedback from your customer.</p>",
+            "author_3": "<em>Author</em> [stars]",
+            "text_3": "<p>Share positive thoughts and feedback from your customer.</p>",
             "margin_top": 24,
             "margin_bottom": 24
           }
@@ -813,8 +813,8 @@
         "text_qKa86h",
         "variant_picker_WzU7za",
         "buy_buttons_PgiGKn",
-        "reviews_8YAgzG",
         "shipping_checkpoints_XYpcgC",
+        "reviews_8YAgzG",
         "collapsible_tab_DhpaCV",
         "collapsible_tab_P7gNgh",
         "collapsible_tab_ceDhm3",
