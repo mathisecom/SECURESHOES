@@ -1292,6 +1292,86 @@
         "custom_container_gradient_background": "",
         "custom_contaner_colors_text": "#2E2A39"
       }
+    },
+    "contact_form_yX7KBi": {
+      "type": "contact-form",
+      "blocks": {
+        "field_row_acCCtX": {
+          "type": "field_row",
+          "settings": {
+            "input_1_enabled": true,
+            "input_1_type": "name",
+            "input_1_required": false,
+            "input_1_error_message": "This field is required",
+            "input_1_custom_name": "Custom input name",
+            "input_2_enabled": true,
+            "input_2_type": "email",
+            "input_2_required": false,
+            "input_2_error_message": "This field is required",
+            "input_2_custom_name": "Custom input name"
+          }
+        },
+        "field_row_pHerhh": {
+          "type": "field_row",
+          "settings": {
+            "input_1_enabled": true,
+            "input_1_type": "phone",
+            "input_1_required": false,
+            "input_1_error_message": "This field is required",
+            "input_1_custom_name": "Custom input name",
+            "input_2_enabled": false,
+            "input_2_type": "custom",
+            "input_2_required": false,
+            "input_2_error_message": "This field is required",
+            "input_2_custom_name": "Custom input name"
+          }
+        },
+        "textarea_QXVLpG": {
+          "type": "textarea",
+          "settings": {
+            "input_type": "comment",
+            "input_required": false,
+            "input_error_message": "This field is required",
+            "input_custom_name": "Custom name"
+          }
+        }
+      },
+      "block_order": [
+        "field_row_acCCtX",
+        "field_row_pHerhh",
+        "textarea_QXVLpG"
+      ],
+      "name": "t:sections.contact-form.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Contact form",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h1",
+        "button_full_width": true,
+        "color_scheme": "background-1",
+        "success_icon": "check_circle",
+        "success_icon_filled": false,
+        "success_text_color": "#28C100",
+        "success_bg_color": "#F2FFED",
+        "success_border_radius": 8,
+        "success_border_width": 1,
+        "success_border_color": "#28C100",
+        "errors_icon": "error",
+        "errors_icon_filled": false,
+        "errors_text_color": "#FF0000",
+        "errors_bg_color": "#fff5f5",
+        "errors_border_radius": 8,
+        "errors_border_width": 1,
+        "errors_border_color": "#FF0000",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff"
+      }
     }
   },
   "order": [
@@ -1308,6 +1388,7 @@
     "image_with_text_ynjNUT",
     "image_with_text_wjFxY9",
     "comparison_table_UQkX8i",
-    "collapsible_content_KJXVzC"
+    "collapsible_content_KJXVzC",
+    "contact_form_yX7KBi"
   ]
 }
