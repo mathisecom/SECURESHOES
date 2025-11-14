@@ -278,7 +278,7 @@
             "settings": {
               "timer_text": "<strong>CART RESERVED FOR [timer]</strong>",
               "timer_duration": 300,
-              "font_size": "1.4",
+              "font_size": "1.2",
               "color_scheme": "inverse",
               "margin_top": 0,
               "margin_bottom": 15
