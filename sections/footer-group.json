@@ -20,7 +20,7 @@
             "image_width": 100,
             "alignment": "center",
             "url": "",
-            "width_desktop": 4,
+            "width_desktop": 2,
             "width_mobile": "2"
           }
         },
@@ -32,7 +32,7 @@
             "button_type": "solid",
             "button_label": "Subscribe",
             "button_style_secondary": false,
-            "width_desktop": 4,
+            "width_desktop": 2,
             "width_mobile": "2"
           }
         },
