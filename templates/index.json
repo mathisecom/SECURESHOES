@@ -1115,7 +1115,7 @@
         "row_4MxTt7": {
           "type": "row",
           "settings": {
-            "benefit": "<strong>Benefit</strong>",
+            "benefit": "<strong>24/7 COMFORT</strong>",
             "us": true,
             "others": false,
             "others_2": false,
@@ -1125,7 +1125,7 @@
         "row_rtdnaW": {
           "type": "row",
           "settings": {
-            "benefit": "<strong>Benefit</strong>",
+            "benefit": "<strong>LACE-FREE CLOSURE</strong>",
             "us": true,
             "others": false,
             "others_2": false,
@@ -1135,7 +1135,7 @@
         "row_f6pYhj": {
           "type": "row",
           "settings": {
-            "benefit": "<strong>Benefit</strong>",
+            "benefit": "<strong>LIGHTWEIGHT & BREATHABLE</strong>",
             "us": true,
             "others": false,
             "others_2": false,
@@ -1145,7 +1145,17 @@
         "row_mBhBc4": {
           "type": "row",
           "settings": {
-            "benefit": "<strong>Benefit</strong>",
+            "benefit": "<strong>STEEL TOE PROTECTION</strong>",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
+        },
+        "row_GeLcTX": {
+          "type": "row",
+          "settings": {
+            "benefit": "<strong>PAIN-FREE & COMFORTABLE</strong>",
             "us": true,
             "others": false,
             "others_2": false,
@@ -1157,7 +1167,8 @@
         "row_4MxTt7",
         "row_rtdnaW",
         "row_f6pYhj",
-        "row_mBhBc4"
+        "row_mBhBc4",
+        "row_GeLcTX"
       ],
       "name": "Comparison table",
       "settings": {
@@ -1177,7 +1188,7 @@
         "mobile_alignment": "center",
         "color_scheme": "background-1",
         "layout": "table_second",
-        "style": "classic",
+        "style": "centered",
         "corner_radius": 20,
         "number_of_competitors": 1,
         "us_label": "[shop_name]",
@@ -1197,8 +1208,8 @@
         "others_3_logo_width": 90,
         "others_3_mobile_logo_width": 60,
         "checkmark_style": "regular",
-        "checkmark_color": "#53AF01",
-        "checkmark_bg_color": "#53AF01",
+        "checkmark_color": "#ffd705",
+        "checkmark_bg_color": "#ffd705",
         "x_style": "regular",
         "x_color": "#121212",
         "x_bg_color": "#DBDBDB",
