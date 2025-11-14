@@ -30,6 +30,27 @@
         "show_text_below": true
       }
     },
+    "image_banner_9P9pBB": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image_1_visibility": "mobile-hidden",
+        "image_2_visibility": "desktop-hidden",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "url": "",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "transparent_container_color": "white",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "logo_list_Vrwkj3": {
       "type": "logo-list",
       "blocks": {
@@ -722,6 +743,7 @@
   "order": [
     "image_banner_6Mkk9g",
     "logo_list_Vrwkj3",
+    "image_banner_9P9pBB",
     "image_slider_TtXeMX",
     "multicolumn_M78Bq3",
     "horizontal_ticker_iynQ6E",
