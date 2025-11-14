@@ -560,6 +560,7 @@
         },
         "variant_picker_WzU7za": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "picker_types": "pills, pills, pills",
             "custom_labels": "",
