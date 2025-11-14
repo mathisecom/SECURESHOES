@@ -832,11 +832,20 @@
             "text": "<p>With the <strong>SafeProtect</strong>, you no longer have to choose between comfort, style, and safety.</p><p>Its modern sneaker-inspired design makes it the perfect companion for long days — both at work and after hours.</p><p>Instead of heavy, rigid safety shoes, you get a stylish pair you can comfortably wear even outside the job site.</p><p><strong>The result:</strong> you feel light, comfortable, and confident in your shoes all day long.</p>",
             "text_style": "body"
           }
+        },
+        "button_XMM7Gh": {
+          "type": "button",
+          "settings": {
+            "button_label": "BUY NOW",
+            "button_link": "",
+            "button_style_secondary": false
+          }
         }
       },
       "block_order": [
         "heading_DipA9K",
-        "text_r4BdAB"
+        "text_r4BdAB",
+        "button_XMM7Gh"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
