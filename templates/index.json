@@ -533,11 +533,11 @@
         "title_CqV3UY": {
           "type": "title",
           "settings": {
-            "text_size": "h1",
+            "text_size": "h2",
             "title_alignment": "left",
             "uppercase_title": false,
             "margin_top": 0,
-            "margin_bottom": 15
+            "margin_bottom": 12
           }
         },
         "price_ARgakK": {
@@ -545,10 +545,10 @@
           "settings": {
             "layout": "price_first",
             "price_color": "accent-1",
-            "compare_price_color": "text",
-            "displayed_badge": "sale",
+            "compare_price_color": "accent-2",
+            "displayed_badge": "custom",
             "icon_scale": 140,
-            "custom_badge_text": "[icon_1] SPECIAL OFFER",
+            "custom_badge_text": "BLACK FRIDAY",
             "icon_1": "redeem",
             "filled_icon_1": false,
             "icon_2": "check_circle",
