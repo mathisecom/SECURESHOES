@@ -135,8 +135,8 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "Featured on",
-        "title_highlight_color": "#6D388B",
+        "title": "ALREADY SEEN ON",
+        "title_highlight_color": "#000000",
         "heading_size": "h2",
         "gray_logos": false,
         "color_scheme": "background-1",
