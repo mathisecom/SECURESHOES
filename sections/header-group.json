@@ -108,7 +108,7 @@
         "show_line_separator": false,
         "color_scheme": "inverse",
         "logo_link": "/",
-        "logo_position": "middle-center",
+        "logo_position": "middle-left",
         "menu": "main-menu",
         "menu_type_desktop": "dropdown",
         "highlight_active_link": false,
