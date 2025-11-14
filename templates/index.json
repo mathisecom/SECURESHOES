@@ -1348,8 +1348,8 @@
         "title": "ANY QUESTION ?",
         "title_highlight_color": "#000000",
         "heading_size": "h2",
-        "button_full_width": true,
-        "color_scheme": "background-1",
+        "button_full_width": false,
+        "color_scheme": "custom",
         "success_icon": "check_circle",
         "success_icon_filled": false,
         "success_text_color": "#28C100",
@@ -1366,11 +1366,11 @@
         "errors_border_color": "#FF0000",
         "padding_top": 36,
         "padding_bottom": 36,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#f3f3f3",
         "custom_gradient_background": "",
         "custom_colors_text": "#2E2A39",
-        "custom_colors_solid_button_background": "#dd1d1d",
-        "custom_colors_solid_button_text": "#ffffff"
+        "custom_colors_solid_button_background": "#ffd705",
+        "custom_colors_solid_button_text": "#000000"
       }
     }
   },
