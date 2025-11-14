@@ -925,9 +925,9 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "Icon bar",
+        "title": "Reasons Why You'll Love it...",
         "title_highlight_color": "#6D388B",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "text": "",
         "color_scheme": "custom",
         "icon_layout": "vertical",
