@@ -821,8 +821,8 @@
         "heading_DipA9K": {
           "type": "heading",
           "settings": {
-            "title": "Image with text",
-            "title_highlight_color": "#6d388b",
+            "title": "THE LOOK OF A SNEAKER – THE PROTECTION <strong>OF A SAFETY SHOE</strong>",
+            "title_highlight_color": "#ffd705",
             "heading_size": "h2"
           }
         },
@@ -880,7 +880,7 @@
             "icon": "check_circle",
             "filled_icon": false,
             "image": "shopify://shop_images/1.webp",
-            "title": "Icon",
+            "title": "ALL-DAY COMFORT",
             "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p><p></p>"
           }
         },
@@ -890,7 +890,7 @@
             "icon": "check_circle",
             "filled_icon": false,
             "image": "shopify://shop_images/3.webp",
-            "title": "Icon",
+            "title": "COMPLETE PROTECTION",
             "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p><p></p>"
           }
         },
@@ -900,7 +900,7 @@
             "icon": "check_circle",
             "filled_icon": false,
             "image": "shopify://shop_images/4.webp",
-            "title": "Icon",
+            "title": "DIAL LACING SYSTEM",
             "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p><p></p>"
           }
         },
@@ -910,7 +910,7 @@
             "icon": "check_circle",
             "filled_icon": false,
             "image": "shopify://shop_images/2.webp",
-            "title": "Icon",
+            "title": "STYLISH DESIGN",
             "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p><p></p>"
           }
         }
@@ -931,7 +931,7 @@
         "text": "",
         "color_scheme": "custom",
         "icon_layout": "vertical",
-        "icon_size": "medium",
+        "icon_size": "large",
         "icon_color": "accent-1",
         "cards_color_scheme": "custom",
         "type": "slide",
@@ -950,7 +950,7 @@
         "desktop_adaptive_height": false,
         "desktop_dots_position": "under",
         "desktop_arrows_position": "sides",
-        "columns_mobile": "2",
+        "columns_mobile": "1",
         "slider_mobile": false,
         "enable_mobile_preview": false,
         "mobile_adaptive_height": false,
