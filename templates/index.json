@@ -612,6 +612,38 @@
             "margin_top": 24,
             "margin_bottom": 24
           }
+        },
+        "collapsible_tab_DhpaCV": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Size Guide",
+            "heading_size": "medium",
+            "icon": "",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": false,
+            "open": false,
+            "content": "",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
+        "collapsible_tab_P7gNgh": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Slip-Resistant",
+            "heading_size": "medium",
+            "icon": "",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": false,
+            "open": false,
+            "content": "",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
         }
       },
       "block_order": [
@@ -619,7 +651,9 @@
         "title_CqV3UY",
         "price_ARgakK",
         "variant_picker_WzU7za",
-        "buy_buttons_PgiGKn"
+        "buy_buttons_PgiGKn",
+        "collapsible_tab_DhpaCV",
+        "collapsible_tab_P7gNgh"
       ],
       "name": "t:sections.featured-product.presets.name",
       "settings": {
