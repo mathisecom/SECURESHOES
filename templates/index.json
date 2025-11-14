@@ -1147,6 +1147,7 @@
         "row_rtdnaW",
         "row_f6pYhj"
       ],
+      "disabled": true,
       "name": "Comparison table",
       "settings": {
         "display_id": false,
@@ -1266,10 +1267,10 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "caption": "VOUS AVEZ UNE QUESTION ?",
-        "title": "FAQ",
-        "title_highlight_color": "#6D388B",
-        "heading_size": "h1",
+        "caption": "DO YOU HAVE A QUESTION?",
+        "title": "FREQUENTLY ASKED QUESTIONS",
+        "title_highlight_color": "#ffd705",
+        "heading_size": "h2",
         "heading_alignment": "center",
         "layout": "none",
         "color_scheme": "background-1",
