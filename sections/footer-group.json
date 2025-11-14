@@ -27,10 +27,10 @@
         "24f208fd-0898-43eb-af23-d74f8420ab37": {
           "type": "email_signup",
           "settings": {
-            "heading": "Subscribe to our emails",
-            "subtext": "<p>Join our email list for exclusive offers and the latest news.</p>",
+            "heading": "Subscribe to our Newsletter",
+            "subtext": "<p>Join our mailing list to receive exclusive offers and the latest updates.</p>",
             "button_type": "solid",
-            "button_label": "Sign up",
+            "button_label": "Subscribe",
             "button_style_secondary": false,
             "width_desktop": 4,
             "width_mobile": "2"
