@@ -926,7 +926,7 @@
         "display_id": false,
         "visibility": "always-display",
         "title": "Reasons Why You'll Love it...",
-        "title_highlight_color": "#6D388B",
+        "title_highlight_color": "#ffd705",
         "heading_size": "h2",
         "text": "",
         "color_scheme": "custom",
