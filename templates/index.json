@@ -589,6 +589,12 @@
             "margin_bottom": 15
           }
         },
+        "custom_liquid_8WRpRT": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": ""
+          }
+        },
         "variant_picker_WzU7za": {
           "type": "variant_picker",
           "disabled": true,
@@ -814,6 +820,7 @@
         "title_CqV3UY",
         "price_ARgakK",
         "text_qKa86h",
+        "custom_liquid_8WRpRT",
         "variant_picker_WzU7za",
         "buy_buttons_PgiGKn",
         "shipping_checkpoints_XYpcgC",
