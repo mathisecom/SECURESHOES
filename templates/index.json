@@ -535,7 +535,7 @@
           "settings": {
             "text_size": "h2",
             "title_alignment": "left",
-            "uppercase_title": false,
+            "uppercase_title": true,
             "margin_top": 0,
             "margin_bottom": 12
           }
