@@ -354,7 +354,7 @@
           "settings": {
             "image": "shopify://shop_images/Gemini_Generated_Image_d2isqvd2isqvd2is.webp",
             "muted_autoplay": true,
-            "title": "Column",
+            "title": "Michael R.",
             "text": "<p>Bought them for my team after an ergonomics briefing. Less fatigue, fewer complaints. Great value for money.</p>",
             "link_label": "",
             "link": ""
@@ -488,7 +488,7 @@
         "speed": 3.5,
         "direction": "normal",
         "stop_on_hover": false,
-        "mobile_spacing": 60,
+        "mobile_spacing": 40,
         "desktop_spacing": 100,
         "color_scheme": "accent-1",
         "mobile_text_size": 14,
