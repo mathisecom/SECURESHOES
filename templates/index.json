@@ -593,6 +593,12 @@
             "margin_bottom": 15
           }
         },
+        "bf_size_charts_homepage_block_88BGX4": {
+          "type": "shopify://apps/bf-size-charts/blocks/homepage-block/47ee4f2e-eb5e-41af-9beb-e2786646bf2a",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
+        },
         "custom_liquid_8WRpRT": {
           "type": "custom_liquid",
           "settings": {
@@ -842,6 +848,7 @@
         "title_CqV3UY",
         "price_ARgakK",
         "text_qKa86h",
+        "bf_size_charts_homepage_block_88BGX4",
         "custom_liquid_8WRpRT",
         "variant_picker_WzU7za",
         "custom_liquid_3bg9hg",
