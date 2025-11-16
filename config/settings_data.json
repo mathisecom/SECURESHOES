@@ -550,6 +550,11 @@
         "type": "shopify://apps/rapi/blocks/app-embed/99617c17-a32b-4e70-a883-7a155610d032",
         "disabled": false,
         "settings": {}
+      },
+      "11254466806377166470": {
+        "type": "shopify://apps/bf-size-charts/blocks/embed-block/47ee4f2e-eb5e-41af-9beb-e2786646bf2a",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
