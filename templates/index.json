@@ -1401,6 +1401,16 @@
             "row_content": "<p>Our sneakers are <strong>certified according to the European standard EN ISO 20345 S3</strong>, which guarantees a <strong>steel toe cap resistant to 200 Joules of impact</strong>, a <strong>Kevlar anti-puncture sole</strong>, <strong>water resistance</strong>, and <strong>anti-static properties</strong>.</p><p>All tests are <strong>validated by independent certification bodies</strong>.</p>",
             "page": ""
           }
+        },
+        "collapsible_row_FiiY3q": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I wear them all day without pain?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>The <strong>high-density Memory Foam insole</strong> and <strong>lightweight construction</strong> are specially designed for long workdays.</p><p>Our sneakers have been tested during <strong>12-hour consecutive shifts</strong>. If you experience any discomfort, we offer a <strong>full 30-day money-back guarantee</strong>.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -1409,7 +1419,8 @@
         "collapsible_row_cdHPAE",
         "collapsible_row_XqXN3Q",
         "collapsible_row_dn6NXp",
-        "collapsible_row_FTpaqm"
+        "collapsible_row_FTpaqm",
+        "collapsible_row_FiiY3q"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
