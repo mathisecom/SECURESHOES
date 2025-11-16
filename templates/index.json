@@ -1381,13 +1381,24 @@
             "row_content": "<p>The rotary lacing system works with a dial: turn it clockwise to tighten the shoe and counterclockwise to loosen it. </p><p>This technology allows for <strong>precise, millimeter-accurate adjustment in just 2 seconds</strong>, offering much greater speed and accuracy compared to traditional laces.</p>",
             "page": ""
           }
+        },
+        "collapsible_row_dn6NXp": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What’s the difference compared to my current safety shoes?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Our sneakers are <strong>45% lighter</strong> than standard safety shoes while maintaining the same <strong>S3 protection</strong>.</p><p>The <strong>high-density Memory Foam insole</strong> eliminates foot pain, and the modern design looks just like real sneakers. You get the <strong>same level of safety</strong> with <strong>revolutionary comfort and style</strong>.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "collapsible_row_CpaFqY",
         "collapsible_row_67aMmt",
         "collapsible_row_cdHPAE",
-        "collapsible_row_XqXN3Q"
+        "collapsible_row_XqXN3Q",
+        "collapsible_row_dn6NXp"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
