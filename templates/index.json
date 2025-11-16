@@ -1351,10 +1351,21 @@
             "row_content": "<p>The SOLYDIA MaxOne are <strong>SRC certified</strong>, the strictest slip-resistance standard in Europe.</p><p>This means they have been tested and approved on:</p><ul><li><strong>Wet tiled floors</strong> (SR)<br/></li><li><strong>Steel floors with glycerol</strong> (SC)<br/></li></ul><p>The <strong>SRC certification combines both tests</strong>, guaranteeing maximum grip on all surfaces — whether wet, greasy, or oily.</p><p>If your job requires slip-resistant footwear, the <strong>S3 standard fully meets those needs</strong>.</p>",
             "page": ""
           }
+        },
+        "collapsible_row_67aMmt": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Are they waterproof?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>The SOLYDIA MaxOne are <strong>water-resistant</strong> and certified <strong>WR (Water Resistant)</strong>.</p><p>They provide effective protection against:</p><ul><li>Rain<br/></li><li>Water splashes<br/></li><li>Spills<br/></li><li>Wet surfaces</li></ul><p>Perfect for all jobs exposed to moisture.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
-        "collapsible_row_CpaFqY"
+        "collapsible_row_CpaFqY",
+        "collapsible_row_67aMmt"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
