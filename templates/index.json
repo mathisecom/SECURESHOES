@@ -1411,6 +1411,26 @@
             "row_content": "<p>The <strong>high-density Memory Foam insole</strong> and <strong>lightweight construction</strong> are specially designed for long workdays.</p><p>Our sneakers have been tested during <strong>12-hour consecutive shifts</strong>. If you experience any discomfort, we offer a <strong>full 30-day money-back guarantee</strong>.</p>",
             "page": ""
           }
+        },
+        "collapsible_row_F4ne9T": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Does the sneaker-style design hold up on construction sites?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Although designed with a sneaker look, our shoes use <strong>high-strength industrial materials</strong>: reinforced mesh, sealed stitching, and a professional slip-resistant sole.</p><p>They <strong>resist mud, dust, and splashes</strong> while remaining <strong>easy to clean</strong>.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_zgwk8f": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do I choose my size?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Our sizes <strong>run true to standard European sizing</strong>. If you are between two sizes, we recommend <strong>choosing the larger size for extra comfort</strong>.</p><p>Check out our <strong>detailed size guide with measurements in centimeters</strong>, available below the product photos.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -1420,7 +1440,9 @@
         "collapsible_row_XqXN3Q",
         "collapsible_row_dn6NXp",
         "collapsible_row_FTpaqm",
-        "collapsible_row_FiiY3q"
+        "collapsible_row_FiiY3q",
+        "collapsible_row_F4ne9T",
+        "collapsible_row_zgwk8f"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
