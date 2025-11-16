@@ -434,7 +434,7 @@
         ],
         "settings": {
           "test_mode": false,
-          "heading_text": "Cart • [count] items",
+          "heading_text": "CART • [count] items",
           "heading_alignment": "flex-start",
           "desktop_width": "normal",
           "mobile_width": "full",
