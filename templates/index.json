@@ -1431,6 +1431,16 @@
             "row_content": "<p>Our sizes <strong>run true to standard European sizing</strong>. If you are between two sizes, we recommend <strong>choosing the larger size for extra comfort</strong>.</p><p>Check out our <strong>detailed size guide with measurements in centimeters</strong>, available below the product photos.</p>",
             "page": ""
           }
+        },
+        "collapsible_row_8q9THt": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Warranty & Returns",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Our <strong>12-month warranty</strong> covers all manufacturing and material defects. Normal wear and tear from daily use is not covered.</p><p>If there’s an issue, simply send us a <strong>photo and a description</strong>, and we will provide a <strong>free replacement</strong> if the defect is confirmed.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -1442,7 +1452,8 @@
         "collapsible_row_FTpaqm",
         "collapsible_row_FiiY3q",
         "collapsible_row_F4ne9T",
-        "collapsible_row_zgwk8f"
+        "collapsible_row_zgwk8f",
+        "collapsible_row_8q9THt"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
