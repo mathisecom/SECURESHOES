@@ -1433,6 +1433,30 @@
         "custom_contaner_colors_text": "#2e2a39"
       }
     },
+    "17632929874603bc65": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_agg_section_Yiyi7U": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "hide_thumbnails": false,
+            "product_handle": "secure-shoes",
+            "aggregated": true,
+            "data-limit": 20,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_agg_section_Yiyi7U"
+      ],
+      "settings": {
+        "display_id": false,
+        "include_margins": true
+      }
+    },
     "contact_form_yX7KBi": {
       "type": "contact-form",
       "blocks": {
@@ -1529,6 +1553,7 @@
     "image_with_text_wjFxY9",
     "comparison_table_UQkX8i",
     "collapsible_content_KJXVzC",
+    "17632929874603bc65",
     "contact_form_yX7KBi"
   ]
 }
