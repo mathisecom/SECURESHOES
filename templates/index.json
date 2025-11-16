@@ -640,7 +640,7 @@
         "custom_liquid_3bg9hg": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div class=\"product__block product__block--custom_liquid\">\n  <style>\n    #people-viewing {\n      position: relative;\n      padding-left: 30px;\n      font-size: 16px;\n      font-weight: bold;\n    }\n\n    #people-viewing::before {\n      content: '';\n      position: absolute;\n      left: 0;\n      top: 50%;\n      transform: translateY(-50%);\n      width: 12px;\n      height: 12px;\n      border-radius: 50%;\n      background-color: #f4af29;\n      box-shadow: 0 0 10px #f4af29, 0 0 20px #f4af29;\n      animation: glowing 3.5s infinite;\n    }\n\n    @keyframes glowing {\n      0% { box-shadow: 0 0 5px #f4af29, 0 0 10px #f4af29; }\n      50% { box-shadow: 0 0 20px #f4af29, 0 0 30px #f4af29; }\n      100% { box-shadow: 0 0 5px #f4af29, 0 0 10px #f4af29; }\n    }\n  </style>\n\n  <div id=\"people-viewing\">Il ne reste plus que <span id=\"stock-count\">9</span> en stock.</div>\n\n  <script>\n    // Fonction pour faire diminuer le nombre en stock progressivement\n    function animerStock() {\n      let stockActuel = 9; // Valeur de départ\n      const stockFinal = 5; // Valeur finale\n      const elementStock = document.getElementById(\"stock-count\");\n\n      const interval = setInterval(() => {\n        stockActuel--;\n        elementStock.textContent = stockActuel;\n\n        if (stockActuel <= stockFinal) {\n          clearInterval(interval);\n        }\n      }, 12000); // Change toutes les 12 secondes\n    }\n\n    // Lance l’animation uniquement quand l’élément devient visible à l’écran\n    const observateur = new IntersectionObserver((entries, observateur) => {\n      entries.forEach(entry => {\n        if (entry.isIntersecting) {\n          animerStock();\n          observateur.disconnect();\n        }\n      });\n    }, { threshold: 0.5 });\n\n    observateur.observe(document.getElementById(\"people-viewing\"));\n  </script>\n</div>"
+            "custom_liquid": "<div class=\"product__block product__block--custom_liquid\">\n  <style>\n    #people-viewing {\n      position: relative;\n      padding-left: 30px;\n      font-size: 16px;\n      font-weight: bold;\n    }\n\n    #people-viewing::before {\n      content: '';\n      position: absolute;\n      left: 0;\n      top: 50%;\n      transform: translateY(-50%);\n      width: 12px;\n      height: 12px;\n      border-radius: 50%;\n      background-color: #f4af29;\n      box-shadow: 0 0 10px #f4af29, 0 0 20px #f4af29;\n      animation: glowing 3.5s infinite;\n    }\n\n    @keyframes glowing {\n      0% { box-shadow: 0 0 5px #f4af29, 0 0 10px #f4af29; }\n      50% { box-shadow: 0 0 20px #f4af29, 0 0 30px #f4af29; }\n      100% { box-shadow: 0 0 5px #f4af29, 0 0 10px #f4af29; }\n    }\n  </style>\n\n  <div id=\"people-viewing\">Only <span id=\"stock-count\">9</span> left in stock.</div>\n\n  <script>\n    // Function to gradually decrease the stock number\n    function animerStock() {\n      let stockActuel = 9; // Starting value\n      const stockFinal = 5; // Final value\n      const elementStock = document.getElementById(\"stock-count\");\n\n      const interval = setInterval(() => {\n        stockActuel--;\n        elementStock.textContent = stockActuel;\n\n        if (stockActuel <= stockFinal) {\n          clearInterval(interval);\n        }\n      }, 12000); // Changes every 12 seconds\n    }\n\n    // Starts the animation only when the element becomes visible on screen\n    const observateur = new IntersectionObserver((entries, observateur) => {\n      entries.forEach(entry => {\n        if (entry.isIntersecting) {\n          animerStock();\n          observateur.disconnect();\n        }\n      });\n    }, { threshold: 0.5 });\n\n    observateur.observe(document.getElementById(\"people-viewing\"));\n  </script>\n</div>"
           }
         },
         "buy_buttons_PgiGKn": {
@@ -739,7 +739,7 @@
           "settings": {
             "heading": "Size Guide",
             "heading_size": "medium",
-            "icon": "",
+            "icon": "crop",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": false,
@@ -755,7 +755,7 @@
           "settings": {
             "heading": "Slip-Resistant",
             "heading_size": "medium",
-            "icon": "",
+            "icon": "falling",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": false,
@@ -771,7 +771,7 @@
           "settings": {
             "heading": "Waterproof",
             "heading_size": "medium",
-            "icon": "",
+            "icon": "invert_colors_off",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": false,
@@ -787,7 +787,7 @@
           "settings": {
             "heading": "For which environments?",
             "heading_size": "medium",
-            "icon": "",
+            "icon": "nest_eco_leaf",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": false,
@@ -803,7 +803,7 @@
           "settings": {
             "heading": "Shipping & Tracking",
             "heading_size": "medium",
-            "icon": "",
+            "icon": "local_shipping",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": false,
@@ -819,7 +819,7 @@
           "settings": {
             "heading": "Warranty & Returns",
             "heading_size": "medium",
-            "icon": "",
+            "icon": "reply",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": false,
