@@ -599,6 +599,12 @@
             "product": "{{section.settings.product}}"
           }
         },
+        "custom_liquid_3bg9hg": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"product__block product__block--custom_liquid\">\n  <style>\n    #people-viewing {\n      position: relative;\n      padding-left: 30px;\n      font-size: 16px;\n      font-weight: bold;\n    }\n\n    #people-viewing::before {\n      content: '';\n      position: absolute;\n      left: 0;\n      top: 50%;\n      transform: translateY(-50%);\n      width: 12px;\n      height: 12px;\n      border-radius: 50%;\n      background-color: #f4af29;\n      box-shadow: 0 0 10px #f4af29, 0 0 20px #f4af29;\n      animation: glowing 3.5s infinite;\n    }\n\n    @keyframes glowing {\n      0% { box-shadow: 0 0 5px #f4af29, 0 0 10px #f4af29; }\n      50% { box-shadow: 0 0 20px #f4af29, 0 0 30px #f4af29; }\n      100% { box-shadow: 0 0 5px #f4af29, 0 0 10px #f4af29; }\n    }\n  </style>\n\n  <div id=\"people-viewing\">Only <span id=\"stock-count\">9</span> left in stock.</div>\n\n  <script>\n    // Function to gradually decrease the stock number\n    function animerStock() {\n      let stockActuel = 9; // Starting value\n      const stockFinal = 5; // Final value\n      const elementStock = document.getElementById(\"stock-count\");\n\n      const interval = setInterval(() => {\n        stockActuel--;\n        elementStock.textContent = stockActuel;\n\n        if (stockActuel <= stockFinal) {\n          clearInterval(interval);\n        }\n      }, 12000); // Changes every 12 seconds\n    }\n\n    // Starts the animation only when the element becomes visible on screen\n    const observateur = new IntersectionObserver((entries, observateur) => {\n      entries.forEach(entry => {\n        if (entry.isIntersecting) {\n          animerStock();\n          observateur.disconnect();\n        }\n      });\n    }, { threshold: 0.5 });\n\n    observateur.observe(document.getElementById(\"people-viewing\"));\n  </script>\n</div>"
+          }
+        },
         "custom_liquid_8WRpRT": {
           "type": "custom_liquid",
           "settings": {
@@ -641,12 +647,6 @@
             "breaks_compare_price_texts": "[compare_price], [compare_price], [compare_price]",
             "margin_top": 15,
             "margin_bottom": 15
-          }
-        },
-        "custom_liquid_3bg9hg": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<div class=\"product__block product__block--custom_liquid\">\n  <style>\n    #people-viewing {\n      position: relative;\n      padding-left: 30px;\n      font-size: 16px;\n      font-weight: bold;\n    }\n\n    #people-viewing::before {\n      content: '';\n      position: absolute;\n      left: 0;\n      top: 50%;\n      transform: translateY(-50%);\n      width: 12px;\n      height: 12px;\n      border-radius: 50%;\n      background-color: #f4af29;\n      box-shadow: 0 0 10px #f4af29, 0 0 20px #f4af29;\n      animation: glowing 3.5s infinite;\n    }\n\n    @keyframes glowing {\n      0% { box-shadow: 0 0 5px #f4af29, 0 0 10px #f4af29; }\n      50% { box-shadow: 0 0 20px #f4af29, 0 0 30px #f4af29; }\n      100% { box-shadow: 0 0 5px #f4af29, 0 0 10px #f4af29; }\n    }\n  </style>\n\n  <div id=\"people-viewing\">Only <span id=\"stock-count\">9</span> left in stock.</div>\n\n  <script>\n    // Function to gradually decrease the stock number\n    function animerStock() {\n      let stockActuel = 9; // Starting value\n      const stockFinal = 5; // Final value\n      const elementStock = document.getElementById(\"stock-count\");\n\n      const interval = setInterval(() => {\n        stockActuel--;\n        elementStock.textContent = stockActuel;\n\n        if (stockActuel <= stockFinal) {\n          clearInterval(interval);\n        }\n      }, 12000); // Changes every 12 seconds\n    }\n\n    // Starts the animation only when the element becomes visible on screen\n    const observateur = new IntersectionObserver((entries, observateur) => {\n      entries.forEach(entry => {\n        if (entry.isIntersecting) {\n          animerStock();\n          observateur.disconnect();\n        }\n      });\n    }, { threshold: 0.5 });\n\n    observateur.observe(document.getElementById(\"people-viewing\"));\n  </script>\n</div>"
           }
         },
         "buy_buttons_PgiGKn": {
@@ -849,9 +849,9 @@
         "price_ARgakK",
         "text_qKa86h",
         "bf_size_charts_homepage_block_88BGX4",
+        "custom_liquid_3bg9hg",
         "custom_liquid_8WRpRT",
         "variant_picker_WzU7za",
-        "custom_liquid_3bg9hg",
         "buy_buttons_PgiGKn",
         "custom_liquid_WAAkyL",
         "custom_liquid_PzYfkV",
