@@ -120,7 +120,7 @@
       "settings": {
         "sticky_header_type": "on-scroll-up",
         "show_line_separator": false,
-        "color_scheme": "inverse",
+        "color_scheme": "accent-1",
         "logo_link": "/",
         "logo_position": "middle-left",
         "menu": "menu",
