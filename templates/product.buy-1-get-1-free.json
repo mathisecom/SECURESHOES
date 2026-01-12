@@ -888,7 +888,7 @@
       ],
       "custom_css": [],
       "settings": {
-        "display_id": false,
+        "display_id": true,
         "enable_sticky_info": true,
         "display_variant_image_first": false,
         "disable_prepend": true,
@@ -959,8 +959,8 @@
         "button_3fMPeN": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "BUY NOW",
+            "button_link": "#shopify-section-template--18409923674282__main",
             "button_style_secondary": false
           }
         }
@@ -1081,14 +1081,14 @@
         "desktop_side_padding": 0,
         "desktop_padding_calc": true,
         "desktop_adaptive_height": false,
-        "desktop_dots_position": "under",
-        "desktop_arrows_position": "sides",
+        "desktop_dots_position": "hidden",
+        "desktop_arrows_position": "under",
         "columns_mobile": "1",
         "slider_mobile": true,
         "enable_mobile_preview": false,
         "mobile_adaptive_height": false,
-        "mobile_dots_position": "under",
-        "mobile_arrows_position": "under",
+        "mobile_dots_position": "hidden",
+        "mobile_arrows_position": "sides",
         "padding_top": 36,
         "padding_bottom": 36,
         "custom_colors_background": "#f5f5f5",
@@ -1120,8 +1120,8 @@
         "button_WJxJzW": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "BUY NOW",
+            "button_link": "#shopify-section-template--18409923674282__main",
             "button_style_secondary": false
           }
         }
@@ -1186,8 +1186,8 @@
         "button_jqbPM6": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "TRY NOW",
+            "button_link": "#shopify-section-template--18409923674282__main",
             "button_style_secondary": false
           }
         }
