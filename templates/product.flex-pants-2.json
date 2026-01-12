@@ -881,7 +881,7 @@
       ],
       "custom_css": [],
       "settings": {
-        "display_id": false,
+        "display_id": true,
         "enable_sticky_info": true,
         "display_variant_image_first": false,
         "disable_prepend": true,
@@ -945,7 +945,7 @@
         "text_hTgXFT": {
           "type": "text",
           "settings": {
-            "text": "<p>With the <strong>SafeProtect</strong>, you no longer have to choose between comfort, style, and safety.</p><p>Its modern sneaker-inspired design makes it the perfect companion for long days — both at work and after hours.</p><p>Instead of heavy, rigid safety shoes, you get a stylish pair you can comfortably wear even outside the job site.</p><p><strong>The result:</strong> you feel light, comfortable, and confident in your shoes all day long.</p>",
+            "text": "<p>Built with <strong>premium 4-way stretch fabric</strong>, these pants move with you effortlessly — no pulling, no restriction.</p><p>Bend, squat, or reach with complete flexibility and comfort.</p><p><strong>Result:</strong> <strong>All-day comfort, even on long workdays. Durable fabric that keeps its shape under heavy use.</strong></p>",
             "text_style": "body"
           }
         },
@@ -953,7 +953,7 @@
           "type": "button",
           "settings": {
             "button_label": "BUY NOW",
-            "button_link": "#shopify-section-template--18409923674282__main",
+            "button_link": "#shopify-section-template--18413321355434__main",
             "button_style_secondary": false
           }
         }
@@ -1106,7 +1106,7 @@
         "text_CUBqBU": {
           "type": "text",
           "settings": {
-            "text": "<p>With the <strong>SafeProtect</strong>, you no longer have to choose between comfort, style, and safety.</p><p>Its modern sneaker-inspired design makes it the perfect companion for long days — both at work and after hours.</p><p>Instead of heavy, rigid safety shoes, you get a stylish pair you can comfortably wear even outside the job site.</p><p><strong>The result:</strong> you feel light, comfortable, and confident in your shoes all day long.</p>",
+            "text": "<p>The <strong>waterproof outer layer</strong> keeps you dry from rain, wind, mud, and splashes. Water beads off instead of soaking in.</p><p>At the same time, the fabric stays <strong>breathable</strong>, releasing heat and moisture.</p><p><strong>Result:</strong> <strong>Dry, Comfortable, and Focused — in any weather.</strong></p>",
             "text_style": "body"
           }
         },
@@ -1114,7 +1114,7 @@
           "type": "button",
           "settings": {
             "button_label": "BUY NOW",
-            "button_link": "#shopify-section-template--18409923674282__main",
+            "button_link": "#shopify-section-template--18413321355434__main",
             "button_style_secondary": false
           }
         }
@@ -1172,7 +1172,7 @@
         "text_ReiJxW": {
           "type": "text",
           "settings": {
-            "text": "<p>With the <strong>SafeProtect</strong>, you no longer have to choose between comfort, style, and safety.</p><p>Its modern sneaker-inspired design makes it the perfect companion for long days — both at work and after hours.</p><p>Instead of heavy, rigid safety shoes, you get a stylish pair you can comfortably wear even outside the job site.</p><p><strong>The result:</strong> you feel light, comfortable, and confident in your shoes all day long.</p>",
+            "text": "<p>A <strong>warm thermal lining</strong> locks in heat while blocking cold air and wind — without limiting movement.</p><p>Breathable and moisture-wicking for lasting comfort.</p><p>Perfect for outdoor work or unheated spaces. <strong>Stay warm, stay active.</strong></p>",
             "text_style": "body"
           }
         },
@@ -1180,7 +1180,7 @@
           "type": "button",
           "settings": {
             "button_label": "TRY NOW",
-            "button_link": "#shopify-section-template--18409923674282__main",
+            "button_link": "#shopify-section-template--18413321355434__main",
             "button_style_secondary": false
           }
         }
@@ -1467,7 +1467,6 @@
         "collapsible_row_RXgYg8",
         "collapsible_row_QC4KTT"
       ],
-      "disabled": true,
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
         "display_id": false,
