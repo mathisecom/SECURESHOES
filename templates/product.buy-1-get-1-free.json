@@ -779,6 +779,86 @@
             "margin_top": 24,
             "margin_bottom": 0
           }
+        },
+        "collapsible_tab_RtnG6p": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Slip-Resistant",
+            "heading_size": "medium",
+            "icon": "falling",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "<p>SOLYDIA shoes are SRC-certified, the strictest anti-slip standard in Europe.</p><p>This means they’ve been rigorously tested and approved on:</p><ul><li>Wet tiled floors (SR rating)<br/></li><li>Steel floors with glycerol (SC rating)<br/></li></ul><p>SRC combines both tests — guaranteeing maximum grip on all surfaces, whether wet, greasy, or oily.</p><p>If your job requires high-performance slip-resistant safety footwear, the S3 standard is exactly what you need.</p>",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
+        "collapsible_tab_DUiDFz": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Waterproof",
+            "heading_size": "medium",
+            "icon": "invert_colors_off",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "<p>The SOLYDIA are water-resistant and WR-certified (Water Resistant).</p><p>They provide effective protection against:</p><ul><li>Rain</li><li>Water splashes</li><li>Spills</li><li>Wet surfaces<br/></li></ul><p>Perfect for any profession exposed to moisture.</p>",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
+        "collapsible_tab_jRLt4H": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "For which environments?",
+            "heading_size": "medium",
+            "icon": "nest_eco_leaf",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "<p>The SOLYDIA are S3-certified, making them suitable for <strong>all demanding work environments</strong>:</p><p>✓ Hard floors (concrete, tiles, asphalt)<br/><br/>✓ Long periods of standing (6–12+ hours)<br/><br/>✓ Intensive walking (10,000+ steps/day)<br/><br/>✓ Handling heavy loads<br/><br/>✓ Wet or greasy surfaces (SRC-certified)<br/><br/>✓ Risk of falling objects<br/><br/>✓ Risk of punctures</p><p>Whether indoors or outdoors, they meet <strong>all the requirements of the S3 certification</strong>.</p>",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
+        "collapsible_tab_4Yfgjj": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Shipping & Tracking",
+            "heading_size": "medium",
+            "icon": "local_shipping",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "<p>Shipping within 24–48h – Tracking available once dispatched</p><p><strong>Delivery Times</strong></p><p>Generally, orders are delivered within 5 to 7 business days (Monday through Friday).</p>",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
+        "collapsible_tab_N6eRed": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Warranty & Returns",
+            "heading_size": "medium",
+            "icon": "reply",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "<p>30-day trial in your work environment. If our sneakers don’t meet your expectations, we offer a full refund.</p><p><strong>12-month manufacturer’s warranty</strong> covering all material and design defects.</p><p><strong>Free size exchange</strong> within 14 days of receipt.</p><p><strong>Easy returns process:</strong> Contact our customer service with your order number.</p>",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
         }
       },
       "block_order": [
@@ -799,7 +879,12 @@
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
         "description",
         "reviews_8UgFbe",
-        "de158e68-5d0d-4819-a625-e2dabdff87d1"
+        "de158e68-5d0d-4819-a625-e2dabdff87d1",
+        "collapsible_tab_RtnG6p",
+        "collapsible_tab_DUiDFz",
+        "collapsible_tab_jRLt4H",
+        "collapsible_tab_4Yfgjj",
+        "collapsible_tab_N6eRed"
       ],
       "custom_css": [],
       "settings": {
