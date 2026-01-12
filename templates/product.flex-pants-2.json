@@ -237,7 +237,7 @@
         "column_CnQAUX": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Titre_22.jpg",
+            "image": "shopify://shop_images/05c3c8be-fa9c-4e11-9ca9-de64ef4b2a72.webp",
             "muted_autoplay": true,
             "title": "Mark T.",
             "text": "<p>At first I was skeptical because of the price, but my back pain disappeared after switching from my old heavy safety shoes. Super comfortable, worth it.</p>",
@@ -248,7 +248,7 @@
         "column_BUxEJm": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/zNRM-t9IC.jpg",
+            "image": "shopify://shop_images/avis3.avif",
             "muted_autoplay": true,
             "title": "Matt D.",
             "text": "<p>Used Stanley for a year, way too heavy. Tried these after a colleague recommended them and ordered immediately. Much lighter and no more foot pain after long days.</p>",
@@ -259,7 +259,7 @@
         "column_qAxAmH": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Titre_24.jpg",
+            "image": "shopify://shop_images/avis.avif",
             "muted_autoplay": true,
             "title": "Michael R.",
             "text": "<p>Bought them for my team after an ergonomics briefing. Less fatigue, fewer complaints. Great value for money.</p>",
@@ -270,7 +270,7 @@
         "column_eajPP8": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Titre_17_fc27e648-cdc4-4a93-94b8-3f10cf79ce22.jpg",
+            "image": "shopify://shop_images/12_fc6bc2ee-5e22-4edb-8456-713181d1c989_360x_-_copie.webp",
             "muted_autoplay": true,
             "title": "James R.",
             "text": "<p>Surprisingly light and very supportive. I’m on my feet all day and these made a real difference. Highly recommend.</p>",
@@ -281,7 +281,7 @@
         "column_HpC3h4": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/fDklscE5Sj6HezY.jpg",
+            "image": "shopify://shop_images/avis5_-_copie.webp",
             "muted_autoplay": true,
             "title": "Chris L.",
             "text": "<p>Good durability and way more comfortable than my old Diadora pair. For this price, it’s a win.</p>",
@@ -292,7 +292,7 @@
         "column_bWCLJa": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/CTSpQRWtYbA5Xyz.jpg",
+            "image": "shopify://shop_images/avis6.avif",
             "muted_autoplay": true,
             "title": "Brian T.",
             "text": "<p>Didn’t expect such comfort from safety shoes. Zero knee or foot pain now. Would buy again.</p>",
@@ -309,7 +309,6 @@
         "column_HpC3h4",
         "column_bWCLJa"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "display_id": false,
