@@ -970,12 +970,10 @@
         "text_hTgXFT",
         "button_3fMPeN"
       ],
-      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "image": "shopify://shop_images/1_480x480_1e0e1a1e-ca43-4a81-8687-ca523ef40922.webp",
         "video_autoplay": true,
         "video_loop": true,
         "height": "adapt",
@@ -1133,7 +1131,6 @@
         "text_CUBqBU",
         "button_WJxJzW"
       ],
-      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "display_id": false,
@@ -1200,7 +1197,6 @@
         "text_ReiJxW",
         "button_jqbPM6"
       ],
-      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "display_id": false,
