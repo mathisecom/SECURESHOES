@@ -479,7 +479,7 @@
         "text_8WJ98Q": {
           "type": "text",
           "settings": {
-            "title": "WINTER SALE 40% OFF"
+            "title": "WINTER SALE - Buy 1, Get 1 Free"
           }
         }
       },
@@ -489,7 +489,7 @@
       "name": "Horizontal Ticker",
       "settings": {
         "visibility": "always-display",
-        "speed": 3.5,
+        "speed": 2.5,
         "direction": "normal",
         "stop_on_hover": false,
         "mobile_spacing": 40,
@@ -497,9 +497,9 @@
         "color_scheme": "accent-1",
         "mobile_text_size": 14,
         "desktop_text_size": 18,
-        "italic_text": false,
+        "italic_text": true,
         "uppercase_text": false,
-        "bold_text": false,
+        "bold_text": true,
         "mobile_image_height": 26,
         "desktop_image_height": 40,
         "mobile_reviews_width": 300,
