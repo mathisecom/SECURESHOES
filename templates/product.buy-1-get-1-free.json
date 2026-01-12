@@ -372,6 +372,63 @@
         "custom_cards_colors_text": "#2E2A39"
       }
     },
+    "horizontal_ticker_YHczrm": {
+      "type": "horizontal-ticker",
+      "blocks": {
+        "text_mM7bcY": {
+          "type": "text",
+          "settings": {
+            "title": "Shrine Theme"
+          }
+        },
+        "text_TDpqeV": {
+          "type": "text",
+          "settings": {
+            "title": "Shrine Theme"
+          }
+        },
+        "text_gEETcn": {
+          "type": "text",
+          "settings": {
+            "title": "Shrine Theme"
+          }
+        }
+      },
+      "block_order": [
+        "text_mM7bcY",
+        "text_TDpqeV",
+        "text_gEETcn"
+      ],
+      "name": "Horizontal Ticker",
+      "settings": {
+        "visibility": "always-display",
+        "speed": 3,
+        "direction": "normal",
+        "stop_on_hover": false,
+        "mobile_spacing": 60,
+        "desktop_spacing": 100,
+        "color_scheme": "accent-1",
+        "mobile_text_size": 16,
+        "desktop_text_size": 18,
+        "italic_text": false,
+        "uppercase_text": false,
+        "bold_text": false,
+        "mobile_image_height": 26,
+        "desktop_image_height": 40,
+        "mobile_reviews_width": 300,
+        "desktop_reviews_width": 400,
+        "hidden_products": "",
+        "enable_specific_display": false,
+        "displayed_products": "",
+        "mobile_padding_top": 12,
+        "mobile_padding_bottom": 12,
+        "desktop_padding_top": 16,
+        "desktop_padding_bottom": 16,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39"
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -398,6 +455,22 @@
             "uppercase_title": false,
             "margin_top": 0,
             "margin_bottom": 0
+          }
+        },
+        "custom_liquid_8cD9FV": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"main-product__block main-product__block-custom_liquid\">\n  <div class=\"m-product-text\">\n    <div id=\"productBullets\" style=\"display: flex; flex-wrap: wrap; font-size:13px;\">\n\n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-right: 15px; margin-bottom: 8px;\">\n        <img class=\"productBulletsItemCheck\"\n             src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\"\n             alt=\"checkmark\"\n             style=\"margin-right: 8px;\">\n        <div class=\"productBulletsItemText body\">European Standard EN ISO 20345</div>\n      </div>\n\n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-right: 15px; margin-bottom: 8px;\">\n        <img class=\"productBulletsItemCheck\"\n             src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\"\n             alt=\"checkmark\"\n             style=\"margin-right: 8px;\">\n        <div class=\"productBulletsItemText body\">Antistatic protection (ESD)</div>\n      </div>\n\n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-right: 15px; margin-bottom: 8px;\">\n        <img class=\"productBulletsItemCheck\"\n             src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\"\n             alt=\"checkmark\"\n             style=\"margin-right: 8px;\">\n        <div class=\"productBulletsItemText body\">Slip-resistant (SRC) & Waterproof (WR)</div>\n      </div>\n\n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-right: 15px; margin-bottom: 8px;\">\n        <img class=\"productBulletsItemCheck\"\n             src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\"\n             alt=\"checkmark\"\n             style=\"margin-right: 8px;\">\n        <div class=\"productBulletsItemText body\">Steel toe cap & Kevlar sole</div>\n      </div>\n\n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-right: 15px; margin-bottom: 8px;\">\n        <img class=\"productBulletsItemCheck\"\n             src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\"\n             alt=\"checkmark\"\n             style=\"margin-right: 8px;\">\n        <div class=\"productBulletsItemText body\">45% lighter than traditional safety shoes</div>\n      </div>\n\n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center;\">\n        <img class=\"productBulletsItemCheck\"\n             src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\"\n             alt=\"checkmark\"\n             style=\"margin-right: 8px;\">\n        <div class=\"productBulletsItemText body\">Ultra-comfortable for long workdays</div>\n      </div>\n\n    </div>\n  </div>\n</div>"
+          }
+        },
+        "bf_size_charts_block_f7XGei": {
+          "type": "shopify://apps/bf-size-charts/blocks/block/47ee4f2e-eb5e-41af-9beb-e2786646bf2a",
+          "settings": {}
+        },
+        "custom_liquid_JePfBr": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"product__block product__block--custom_liquid\" style=\"margin-bottom: 25px;\">\n  <style>\n    #people-viewing {\n      position: relative;\n      padding-left: 30px;\n      font-size: 16px;\n      font-weight: bold;\n    }\n\n    #people-viewing::before {\n      content: '';\n      position: absolute;\n      left: 0;\n      top: 50%;\n      transform: translateY(-50%);\n      width: 12px;\n      height: 12px;\n      border-radius: 50%;\n      background-color: #f4af29;\n      box-shadow: 0 0 10px #f4af29, 0 0 20px #f4af29;\n      animation: glowing 3.5s infinite;\n    }\n\n    @keyframes glowing {\n      0% { box-shadow: 0 0 5px #f4af29, 0 0 10px #f4af29; }\n      50% { box-shadow: 0 0 20px #f4af29, 0 0 30px #f4af29; }\n      100% { box-shadow: 0 0 5px #f4af29, 0 0 10px #f4af29; }\n    }\n  </style>\n\n  <div id=\"people-viewing\">Only <span id=\"stock-count\">9</span> left in stock.</div>\n\n  <script>\n    function animerStock() {\n      let stockActuel = 9;\n      const stockFinal = 5;\n      const elementStock = document.getElementById(\"stock-count\");\n\n      const interval = setInterval(() => {\n        stockActuel--;\n        elementStock.textContent = stockActuel;\n\n        if (stockActuel <= stockFinal) {\n          clearInterval(interval);\n        }\n      }, 12000);\n    }\n\n    const observateur = new IntersectionObserver((entries, observateur) => {\n      entries.forEach(entry => {\n        if (entry.isIntersecting) {\n          animerStock();\n          observateur.disconnect();\n        }\n      });\n    }, { threshold: 0.5 });\n\n    observateur.observe(document.getElementById(\"people-viewing\"));\n  </script>\n</div>"
           }
         },
         "a6eb81db-40e4-43e0-972f-32db010a4a56": {
@@ -705,6 +778,9 @@
       "block_order": [
         "trustpilot_stars_TCMqVQ",
         "title",
+        "custom_liquid_8cD9FV",
+        "bf_size_charts_block_f7XGei",
+        "custom_liquid_JePfBr",
         "a6eb81db-40e4-43e0-972f-32db010a4a56",
         "price",
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1",
@@ -762,7 +838,7 @@
         "mobile_slides_inner_width": 100,
         "trust_badge_position": "top-right",
         "trust_badge_size": "medium",
-        "mobile_padding_top": 0,
+        "mobile_padding_top": 28,
         "mobile_padding_bottom": 16,
         "desktop_padding_top": 36,
         "desktop_padding_bottom": 36
@@ -796,6 +872,7 @@
     "image_banner_AJxxcD",
     "image_slider_ATjCXQ",
     "multicolumn_8MXBdQ",
+    "horizontal_ticker_YHczrm",
     "main",
     "related-products"
   ]
