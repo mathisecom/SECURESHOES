@@ -446,7 +446,7 @@
         "custom_liquid_8cD9FV": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div class=\"main-product__block main-product__block-custom_liquid\">\n  <div class=\"m-product-text\">\n    <div id=\"productBullets\" style=\"display: flex; flex-wrap: wrap; font-size:13px;\">\n\n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-right: 15px; margin-bottom: 8px;\">\n        <img class=\"productBulletsItemCheck\"\n             src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\"\n             alt=\"checkmark\"\n             style=\"margin-right: 8px;\">\n        <div class=\"productBulletsItemText body\">Thermal fleece lining, Warm & Breathable</div>\n      </div>\n\n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-right: 15px; margin-bottom: 8px;\">\n        <img class=\"productBulletsItemCheck\"\n             src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\"\n             alt=\"checkmark\"\n             style=\"margin-right: 8px;\">\n        <div class=\"productBulletsItemText body\">Ripstop nylon stitching – tear-resistant</div>\n      </div>\n\n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-right: 15px; margin-bottom: 8px;\">\n        <img class=\"productBulletsItemCheck\"\n             src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\"\n             alt=\"checkmark\"\n             style=\"margin-right: 8px;\">\n        <div class=\"productBulletsItemText body\">4-way stretch – total mobility</div>\n      </div>\n\n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-right: 15px; margin-bottom: 8px;\">\n        <img class=\"productBulletsItemCheck\"\n             src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\"\n             alt=\"checkmark\"\n             style=\"margin-right: 8px;\">\n        <div class=\"productBulletsItemText body\">Waterproof & breathable</div>\n      </div>\n\n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-right: 15px; margin-bottom: 8px;\">\n        <img class=\"productBulletsItemCheck\"\n             src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\"\n             alt=\"checkmark\"\n             style=\"margin-right: 8px;\">\n        <div class=\"productBulletsItemText body\">8 practical pockets</div>\n      </div>\n\n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center;\">\n        <img class=\"productBulletsItemCheck\"\n             src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\"\n             alt=\"checkmark\"\n             style=\"margin-right: 8px;\">\n        <div class=\"productBulletsItemText body\">Ergonomic, tailored fit</div>\n      </div>\n\n    </div>\n  </div>\n</div>"
+            "custom_liquid": "<div class=\"main-product__block main-product__block-custom_liquid\">\n  <div class=\"m-product-text\">\n    <div id=\"productBullets\" style=\"display: flex; flex-wrap: wrap; font-size:13px;\">\n\n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-right: 15px; margin-bottom: 8px;\">\n        <img class=\"productBulletsItemCheck\"\n             src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\"\n             alt=\"checkmark\"\n             style=\"margin-right: 8px;\">\n        <div class=\"productBulletsItemText body\">Thermal fleece lining, warm & breathable</div>\n      </div>\n\n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-right: 15px; margin-bottom: 8px;\">\n        <img class=\"productBulletsItemCheck\"\n             src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\"\n             alt=\"checkmark\"\n             style=\"margin-right: 8px;\">\n        <div class=\"productBulletsItemText body\">Ripstop nylon stitching – tear-resistant</div>\n      </div>\n\n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-right: 15px; margin-bottom: 8px;\">\n        <img class=\"productBulletsItemCheck\"\n             src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\"\n             alt=\"checkmark\"\n             style=\"margin-right: 8px;\">\n        <div class=\"productBulletsItemText body\">4-way stretch – total mobility</div>\n      </div>\n\n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-right: 15px; margin-bottom: 8px;\">\n        <img class=\"productBulletsItemCheck\"\n             src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\"\n             alt=\"checkmark\"\n             style=\"margin-right: 8px;\">\n        <div class=\"productBulletsItemText body\">Waterproof & breathable</div>\n      </div>\n\n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-right: 15px; margin-bottom: 8px;\">\n        <img class=\"productBulletsItemCheck\"\n             src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\"\n             alt=\"checkmark\"\n             style=\"margin-right: 8px;\">\n        <div class=\"productBulletsItemText body\">8 practical pockets</div>\n      </div>\n\n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center;\">\n        <img class=\"productBulletsItemCheck\"\n             src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\"\n             alt=\"checkmark\"\n             style=\"margin-right: 8px;\">\n        <div class=\"productBulletsItemText body\">Ergonomic, tailored fit</div>\n      </div>\n\n    </div>\n  </div>\n</div>"
           }
         },
         "bf_size_charts_block_f7XGei": {
@@ -760,6 +760,7 @@
         },
         "de158e68-5d0d-4819-a625-e2dabdff87d1": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Size Guide",
             "heading_size": "medium",
@@ -776,6 +777,7 @@
         },
         "collapsible_tab_RtnG6p": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Slip-Resistant",
             "heading_size": "medium",
@@ -792,6 +794,7 @@
         },
         "collapsible_tab_DUiDFz": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Waterproof",
             "heading_size": "medium",
@@ -808,6 +811,7 @@
         },
         "collapsible_tab_jRLt4H": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "For which environments?",
             "heading_size": "medium",
