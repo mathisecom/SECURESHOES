@@ -439,8 +439,8 @@
             "star_color": "#00b67a",
             "bg_star_color": "#c8c8c8",
             "star_symbol_color": "#ffffff",
-            "label": "(xxxx Reviews)",
-            "size": 16,
+            "label": "RATED <strong>4.7/5</strong> BY <strong>15,200+ PROS!</strong>",
+            "size": 13,
             "alignment": "flex-start",
             "scroll_id": "",
             "margin_top": 24,
@@ -707,6 +707,7 @@
         },
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5": {
           "type": "sticky_atc",
+          "disabled": true,
           "settings": {
             "function": "add_to_cart",
             "display_when": "after_scroll",
@@ -746,7 +747,6 @@
         },
         "reviews_8UgFbe": {
           "type": "reviews",
-          "disabled": true,
           "settings": {
             "color_scheme": "background-1",
             "show_custom_bg": false,
@@ -756,7 +756,7 @@
             "border_color": "#b7b7b7",
             "avatar_alignment": "top",
             "avatar_corner_radius": 40,
-            "star_color": "#ffcc00",
+            "star_color": "#00b67a",
             "stars_translate": 0,
             "checkmark_color": "#6d388b",
             "checkmark_icon_color": "#ffffff",
@@ -766,10 +766,13 @@
             "display_arrows": false,
             "display_dots": true,
             "author_1": "<em>Author</em> [stars]",
+            "image_1": "shopify://shop_images/Avis-BoaShoes-2_ba7183aa-6b64-4e3c-8aae-4c609f50eeee.webp",
             "text_1": "<p>Share positive thoughts and feedback from your customer.</p>",
             "author_2": "<em>Author</em> [stars]",
+            "image_2": "shopify://shop_images/Titre_23.jpg",
             "text_2": "<p>Share positive thoughts and feedback from your customer.</p>",
             "author_3": "<em>Author</em> [stars]",
+            "image_3": "shopify://shop_images/Titre_24.jpg",
             "text_3": "<p>Share positive thoughts and feedback from your customer.</p>",
             "margin_top": 24,
             "margin_bottom": 24
@@ -777,11 +780,10 @@
         },
         "de158e68-5d0d-4819-a625-e2dabdff87d1": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
             "heading": "Collapsible row",
             "heading_size": "medium",
-            "icon": "check_box",
+            "icon": "",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
