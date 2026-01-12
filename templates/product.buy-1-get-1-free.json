@@ -781,14 +781,14 @@
         "de158e68-5d0d-4819-a625-e2dabdff87d1": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Size Guide",
             "heading_size": "medium",
-            "icon": "",
+            "icon": "crop",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
             "open": false,
-            "content": "",
+            "content": "<p><strong>Our shoes fit true to size according, simply choose your usual size when ordering.</strong></p><p>If you're between two sizes, we recommend selecting the larger one for added comfort.</p><p>For more information, you can take a look at our size guide:</p>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
