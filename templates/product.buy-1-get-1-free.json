@@ -867,6 +867,72 @@
         "desktop_padding_bottom": 36
       }
     },
+    "image_with_text_mzWHV7": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_JV4zyJ": {
+          "type": "heading",
+          "settings": {
+            "title": "THE LOOK OF A SNEAKER – THE PROTECTION <strong>OF A SAFETY SHOE</strong>",
+            "title_highlight_color": "#ffd705",
+            "heading_size": "h2"
+          }
+        },
+        "text_hTgXFT": {
+          "type": "text",
+          "settings": {
+            "text": "<p>With the <strong>SafeProtect</strong>, you no longer have to choose between comfort, style, and safety.</p><p>Its modern sneaker-inspired design makes it the perfect companion for long days — both at work and after hours.</p><p>Instead of heavy, rigid safety shoes, you get a stylish pair you can comfortably wear even outside the job site.</p><p><strong>The result:</strong> you feel light, comfortable, and confident in your shoes all day long.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_3fMPeN": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_JV4zyJ",
+        "text_hTgXFT",
+        "button_3fMPeN"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image": "shopify://shop_images/1_480x480_1e0e1a1e-ca43-4a81-8687-ca523ef40922.webp",
+        "video_autoplay": true,
+        "video_loop": true,
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "section_color_scheme": "background-1",
+        "full_desktop_width": false,
+        "content_layout": "no-overlap",
+        "desktop_media_width": 50,
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": false,
+        "mobile_direction": "normal",
+        "mobile_image_quanlity": "2",
+        "mobile_content_alignment": "left",
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 16,
+        "desktop_padding_top": 36,
+        "desktop_padding_bottom": 36,
+        "custom_colors_background": "#2E2A39",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#FFFFFF",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_section_colors_background": "#FFFFFF",
+        "custom_section_gradient_background": ""
+      }
+    },
     "related-products": {
       "type": "related-products",
       "disabled": true,
@@ -897,6 +963,7 @@
     "multicolumn_8MXBdQ",
     "horizontal_ticker_YHczrm",
     "main",
+    "image_with_text_mzWHV7",
     "related-products"
   ]
 }
