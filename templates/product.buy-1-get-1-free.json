@@ -12,6 +12,21 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "trustpilot_stars_TCMqVQ": {
+          "type": "trustpilot_stars",
+          "settings": {
+            "rating": 5,
+            "star_color": "#00b67a",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#ffffff",
+            "label": "(xxxx Reviews)",
+            "size": 16,
+            "alignment": "flex-start",
+            "scroll_id": "",
+            "margin_top": 24,
+            "margin_bottom": 15
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -40,6 +55,7 @@
         },
         "price": {
           "type": "price",
+          "disabled": true,
           "settings": {
             "layout": "price_first",
             "price_color": "accent-1",
@@ -57,6 +73,7 @@
         },
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "picker_types": "pills, dropdown, dropdown",
             "custom_labels": "[name] - [selected]",
@@ -94,6 +111,7 @@
         },
         "04ba004e-2f54-4936-8b1c-8bcadf6573f6": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {
             "full_width_classic": false,
             "atc_append": "none",
@@ -322,6 +340,7 @@
         }
       },
       "block_order": [
+        "trustpilot_stars_TCMqVQ",
         "title",
         "a6eb81db-40e4-43e0-972f-32db010a4a56",
         "price",
@@ -368,8 +387,8 @@
         "mobile_media_corner_radius": 0,
         "mobile_spacing_pixels": 0,
         "mobile_arrows_position": "sides",
-        "mobile_pagination": "dots_overlay",
-        "mobile_thumbnails_position": "hidden",
+        "mobile_pagination": "hidden",
+        "mobile_thumbnails_position": "bottom",
         "mobile_thumbnails_count": 5,
         "mobile_vertical_thumbnails_width": 22,
         "mobile_vertical_thumbnails_hide_arrows": true,
