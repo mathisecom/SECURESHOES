@@ -378,31 +378,17 @@
         "text_mM7bcY": {
           "type": "text",
           "settings": {
-            "title": "Shrine Theme"
-          }
-        },
-        "text_TDpqeV": {
-          "type": "text",
-          "settings": {
-            "title": "Shrine Theme"
-          }
-        },
-        "text_gEETcn": {
-          "type": "text",
-          "settings": {
-            "title": "Shrine Theme"
+            "title": "WINTER SALE - Buy 1, Get 1 Free"
           }
         }
       },
       "block_order": [
-        "text_mM7bcY",
-        "text_TDpqeV",
-        "text_gEETcn"
+        "text_mM7bcY"
       ],
       "name": "Horizontal Ticker",
       "settings": {
         "visibility": "always-display",
-        "speed": 3,
+        "speed": 4,
         "direction": "normal",
         "stop_on_hover": false,
         "mobile_spacing": 60,
@@ -410,9 +396,9 @@
         "color_scheme": "accent-1",
         "mobile_text_size": 16,
         "desktop_text_size": 18,
-        "italic_text": false,
+        "italic_text": true,
         "uppercase_text": false,
-        "bold_text": false,
+        "bold_text": true,
         "mobile_image_height": 26,
         "desktop_image_height": 40,
         "mobile_reviews_width": 300,
@@ -444,7 +430,7 @@
             "alignment": "flex-start",
             "scroll_id": "",
             "margin_top": 24,
-            "margin_bottom": 15
+            "margin_bottom": 6
           }
         },
         "title": {
@@ -454,7 +440,7 @@
             "title_alignment": "left",
             "uppercase_title": false,
             "margin_top": 0,
-            "margin_bottom": 0
+            "margin_bottom": 12
           }
         },
         "custom_liquid_8cD9FV": {
