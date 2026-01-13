@@ -794,16 +794,15 @@
         },
         "collapsible_tab_DUiDFz": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
-            "heading": "Waterproof",
+            "heading": "Thermal insulation",
             "heading_size": "medium",
-            "icon": "invert_colors_off",
+            "icon": "nest_eco_leaf",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
             "open": false,
-            "content": "<p>The SOLYDIA are water-resistant and WR-certified (Water Resistant).</p><p>They provide effective protection against:</p><ul><li>Rain</li><li>Water splashes</li><li>Spills</li><li>Wet surfaces<br/></li></ul><p>Perfect for any profession exposed to moisture.</p>",
+            "content": "<p>Our <strong>SOLYDIA FLEX</strong> pants are guaranteed to keep you warm thanks to the Canadian Fleece thermal lining. This is a technical fleece developed for extreme weather conditions, used by special forces to stay warm and mobile in temperatures as low as -20°C.<br/><br/><strong>How does it work?</strong> The fleece fibers trap the warm air produced by your body while wicking away moisture. You stay warm without sweating, unlike low-quality linings that make you sweat and then freeze.<br/><br/><strong>The real difference?</strong> With standard lined pants, you feel warm at first, then you sweat and end up freezing. With Canadian Fleece, heat remains stable all day long, even at -10°C.</p>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
