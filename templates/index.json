@@ -522,11 +522,11 @@
         "trustpilot_stars_WwGE79": {
           "type": "trustpilot_stars",
           "settings": {
-            "rating": 5,
+            "rating": 4.7,
             "star_color": "#00b67a",
             "bg_star_color": "#c8c8c8",
             "star_symbol_color": "#ffffff",
-            "label": "RATED <strong>4.7/5</strong> BY <strong>15,200+ PROS!</strong>",
+            "label": "RATED <strong>4.7/5</strong> BY 1<strong>5,000+ PROS!</strong>",
             "size": 12,
             "alignment": "flex-start",
             "scroll_id": "",
@@ -909,7 +909,7 @@
         "text_r4BdAB": {
           "type": "text",
           "settings": {
-            "text": "<p>With the <strong>SafeProtect</strong>, you no longer have to choose between comfort, style, and safety.</p><p>Its modern sneaker-inspired design makes it the perfect companion for long days — both at work and after hours.</p><p>Instead of heavy, rigid safety shoes, you get a stylish pair you can comfortably wear even outside the job site.</p><p><strong>The result:</strong> you feel light, comfortable, and confident in your shoes all day long.</p>",
+            "text": "<p>With <strong>Solydia</strong>, you no longer have to choose between comfort, style, and safety.</p><p>Its modern sneaker-inspired design makes it the perfect companion for long days — both at work and after hours.</p><p>Instead of heavy, rigid safety shoes, you get a stylish pair you can comfortably wear even outside the job site.</p><p><strong>The result:</strong> you feel light, comfortable, and confident in your shoes all day long.</p>",
             "text_style": "body"
           }
         },
