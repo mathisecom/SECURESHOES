@@ -1385,7 +1385,7 @@
             "heading": "Do SOLYDIA really meet the S3 safety standard?",
             "icon": "",
             "filled_icon": false,
-            "row_content": "<p>The <strong>SOLYDIA </strong>are <strong>S3 certified</strong>, making them suitable for <strong>all demanding work environments</strong>:</p><p>✓ Hard floors (concrete, tiles, asphalt)<br/><br/>✓ Long periods of standing (6–12+ hours)<br/><br/>✓ Intensive walking (10,000+ steps/day)<br/><br/>✓ Handling heavy loads<br/><br/>✓ Wet or greasy surfaces (<strong>SRC certified</strong>)<br/><br/>✓ Risk of falling objects<br/><br/>✓ Risk of punctures</p><p>Whether you work indoors or outdoors, they <strong>meet all the requirements of S3 certification</strong>.</p>",
+            "row_content": "<p>Our sneakers are certified to the European <strong>EN ISO 20345 S3</strong> standard, guaranteeing a <strong>steel toe cap resistant to 200 joules of impact</strong>, a <strong>Kevlar puncture-resistant sole</strong>, <strong>water resistance</strong>, and <strong>antistatic properties</strong>.</p><p>All tests are validated by <strong>independent certification bodies</strong>.</p>",
             "page": ""
           }
         },
@@ -1395,7 +1395,7 @@
             "heading": "Can I wear them all day without pain?",
             "icon": "",
             "filled_icon": false,
-            "row_content": "<p>The rotary lacing system works with a dial: turn it clockwise to tighten the shoe and counterclockwise to loosen it. </p><p>This technology allows for <strong>precise, millimeter-accurate adjustment in just 2 seconds</strong>, offering much greater speed and accuracy compared to traditional laces.</p>",
+            "row_content": "<p>The high-density <strong>Memory Foam insole</strong> and lightweight construction are specifically designed for long workdays.</p><p>Our sneakers have been tested during <strong>12-hour shifts</strong>. If you experience any discomfort, we offer a <strong>full refund within 30 days</strong>.</p>",
             "page": ""
           }
         },
@@ -1405,7 +1405,7 @@
             "heading": "Does the sneaker-style design hold up on construction sites?",
             "icon": "",
             "filled_icon": false,
-            "row_content": "<p>Our sneakers are <strong>45% lighter</strong> than standard safety shoes while maintaining the same <strong>S3 protection</strong>.</p><p>The <strong>high-density Memory Foam insole</strong> eliminates foot pain, and the modern design looks just like real sneakers. You get the <strong>same level of safety</strong> with <strong>revolutionary comfort and style</strong>.</p>",
+            "row_content": "<p>Although designed with a sneaker look, our sneakers use <strong>high-strength industrial materials</strong>: reinforced mesh, sealed stitching, and a professional <strong>non-slip sole</strong>.</p><p>They withstand <strong>mud, dust, and splashes</strong> while remaining <strong>easy to clean</strong>.</p>",
             "page": ""
           }
         },
@@ -1415,7 +1415,7 @@
             "heading": "How do I choose the right size?",
             "icon": "",
             "filled_icon": false,
-            "row_content": "<p>Our sneakers are <strong>certified according to the European standard EN ISO 20345 S3</strong>, which guarantees a <strong>steel toe cap resistant to 200 Joules of impact</strong>, a <strong>Kevlar anti-puncture sole</strong>, <strong>water resistance</strong>, and <strong>anti-static properties</strong>.</p><p>All tests are <strong>validated by independent certification bodies</strong>.</p>",
+            "row_content": "<p>Our sizes follow <strong>standard European sizing</strong>. If you’re between two sizes, we recommend choosing the <strong>larger size</strong> for extra comfort.</p><p>Check out our <strong>detailed size guide with centimeter measurements</strong> available below the product photos.</p>",
             "page": ""
           }
         },
@@ -1425,12 +1425,13 @@
             "heading": "Warranty & Returns",
             "icon": "",
             "filled_icon": false,
-            "row_content": "<p>The <strong>high-density Memory Foam insole</strong> and <strong>lightweight construction</strong> are specially designed for long workdays.</p><p>Our sneakers have been tested during <strong>12-hour consecutive shifts</strong>. If you experience any discomfort, we offer a <strong>full 30-day money-back guarantee</strong>.</p>",
+            "row_content": "<p>Our <strong>12-month warranty</strong> covers all <strong>manufacturing and material defects</strong>. Normal wear and tear from daily use is not covered.</p><p>If there’s an issue, simply send us a <strong>photo with a description</strong>, and we’ll provide a <strong>free replacement</strong> if the defect is confirmed.</p>",
             "page": ""
           }
         },
         "collapsible_row_wPPQTH": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "Delivery times",
             "icon": "",
