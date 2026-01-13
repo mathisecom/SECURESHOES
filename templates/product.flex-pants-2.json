@@ -762,16 +762,15 @@
         },
         "de158e68-5d0d-4819-a625-e2dabdff87d1": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
-            "heading": "Size Guide",
+            "heading": "Tear-resistant",
             "heading_size": "medium",
-            "icon": "crop",
+            "icon": "density_medium",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
             "open": false,
-            "content": "<p><strong>Our shoes fit true to size according, simply choose your usual size when ordering.</strong></p><p>If you're between two sizes, we recommend selecting the larger one for added comfort.</p><p>For more information, you can take a look at our size guide:</p>",
+            "content": "<p><strong>Our SOLYDIA FLEX pants are guaranteed tear-resistant thanks to Ripstop technology. The term comes from the English words “rip” (to tear) and “stop,” a textile technology originally developed for military equipment.</strong></p><p><strong>How does it work?</strong><br/><br/>The nylon thread is woven into a reinforced grid. If the fabric catches on a nail or a sharp edge, the tear stops at the grid instead of spreading across the entire pair of pants.</p><p><strong>The real difference?</strong><br/><br/>With regular pants, a small snag can quickly turn into a 10–15 cm tear. With Ripstop, that same snag remains just a hole of a few millimeters.</p>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
@@ -779,11 +778,10 @@
         },
         "collapsible_tab_RtnG6p": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
-            "heading": "Slip-Resistant",
+            "heading": "Waterproof",
             "heading_size": "medium",
-            "icon": "falling",
+            "icon": "water_drop",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
