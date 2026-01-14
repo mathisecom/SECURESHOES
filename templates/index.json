@@ -791,7 +791,7 @@
           "settings": {
             "heading": "European Standard S3",
             "heading_size": "medium",
-            "icon": "reply",
+            "icon": "shield",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": false,
