@@ -671,7 +671,7 @@
             "bottom_text_2": "Order Ready",
             "min_days_2": 1,
             "max_days_2": 2,
-            "icon_3": "redeem",
+            "icon_3": "box",
             "filled_icon_3": false,
             "top_text_3": "<strong>[start_date] - [end_date]</strong>",
             "bottom_text_3": "Delivered",
@@ -788,6 +788,7 @@
         },
         "collapsible_tab_RCwniM": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Shipping & Tracking",
             "heading_size": "medium",
