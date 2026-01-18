@@ -448,7 +448,7 @@
         "custom_liquid_ezyKXL": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<p>Le workwear trousers <b>SOLYDIA™ FLEX </b> combines the durability of professional gear with the comfort of clothing designed to keep you moving all day.</p>"
+            "custom_liquid": "The <b>SOLYDIA™ FLEX PANTS</b> combine the durability of professional gear with the comfort of clothing designed to keep you moving all day."
           }
         },
         "bf_size_charts_block_f7XGei": {
@@ -675,7 +675,7 @@
             "bottom_text_2": "Order Ready",
             "min_days_2": 1,
             "max_days_2": 2,
-            "icon_3": "redeem",
+            "icon_3": "box",
             "filled_icon_3": false,
             "top_text_3": "<strong>[start_date] - [end_date]</strong>",
             "bottom_text_3": "Delivered",
@@ -755,10 +755,10 @@
             "display_dots": true,
             "author_1": "<em>Dany H.</em> [stars]",
             "image_1": "shopify://shop_images/CREA_1080X1080_-_2026-01-12T232513.673.jpg",
-            "text_1": "<p>Worn daily for months on concrete and roofing jobs. Still solid. Stretchy, comfortable, no tearing.</p>",
+            "text_1": "<p>Worked outside at -3°C, stayed warm without sweating. Great mobility, worth the price.</p>",
             "author_2": "<em>James R.</em> [stars]",
             "image_2": "shopify://shop_images/CREA_1080X1080_-_2026-01-12T232535.259.jpg",
-            "text_2": "<p>Worked outside at -3°C, stayed warm without sweating. Great mobility, worth the price.</p>",
+            "text_2": "<p>Worn daily for months on concrete and roofing jobs. Still solid. Stretchy, comfortable, no tearing.</p>",
             "author_3": "<em>Mark T.</em> [stars]",
             "image_3": "shopify://shop_images/CREA_1080X1080_-_2026-01-12T232547.738.jpg",
             "text_3": "<p>My whole crew switched to these. Waterproof, warm, and tough. Great value.</p>",
