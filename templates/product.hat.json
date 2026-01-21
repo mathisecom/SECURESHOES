@@ -312,6 +312,7 @@
         },
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5": {
           "type": "sticky_atc",
+          "disabled": true,
           "settings": {
             "function": "add_to_cart",
             "display_when": "after_scroll",
@@ -342,8 +343,41 @@
             "mobile_transparent_bg": false
           }
         },
+        "collapsible_tab_kVbjE7": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Shipping & Tracking",
+            "heading_size": "medium",
+            "icon": "",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
+        "collapsible_tab_HaBpfj": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Warranty & Returns",
+            "heading_size": "medium",
+            "icon": "",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
         "description": {
           "type": "description",
+          "disabled": true,
           "settings": {
             "margin_top": 24,
             "margin_bottom": 24
@@ -410,6 +444,8 @@
         "buy_buttons",
         "e0a0b690-50df-4ca4-acfd-ce2980696cce",
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
+        "collapsible_tab_kVbjE7",
+        "collapsible_tab_HaBpfj",
         "description",
         "reviews_8UgFbe",
         "de158e68-5d0d-4819-a625-e2dabdff87d1"
