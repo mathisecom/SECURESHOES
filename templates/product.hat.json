@@ -12,6 +12,21 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "trustpilot_stars_URptEa": {
+          "type": "trustpilot_stars",
+          "settings": {
+            "rating": 5,
+            "star_color": "#00b67a",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#ffffff",
+            "label": "Rated <strong>4.7/5 </strong>by over 15,200 customers!",
+            "size": 11,
+            "alignment": "flex-start",
+            "scroll_id": "",
+            "margin_top": 15,
+            "margin_bottom": 12
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -384,6 +399,7 @@
         }
       },
       "block_order": [
+        "trustpilot_stars_URptEa",
         "title",
         "a6eb81db-40e4-43e0-972f-32db010a4a56",
         "price",
