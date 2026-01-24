@@ -78,7 +78,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "ALREADY SEEN ON",
+        "title": "AS SEEN ON",
         "title_highlight_color": "#000000",
         "heading_size": "h2",
         "gray_logos": false,
