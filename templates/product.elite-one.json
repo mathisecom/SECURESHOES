@@ -100,30 +100,6 @@
         "custom_colors_text": "#121212"
       }
     },
-    "image_banner_AJxxcD": {
-      "type": "image-banner",
-      "disabled": true,
-      "name": "t:sections.image-banner.presets.name",
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "image": "shopify://shop_images/ECLAT_10c675b1-4f2b-46e5-9818-e56d97ebf4ff.jpg",
-        "image_1_visibility": "mobile-hidden",
-        "image_2": "shopify://shop_images/Titre_26_07ba218c-de01-498f-8bc8-b6fb62fba881.jpg",
-        "image_2_visibility": "desktop-hidden",
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "url": "",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "transparent_container_color": "white",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "image_slider_ATjCXQ": {
       "type": "image-slider",
       "blocks": {
@@ -229,152 +205,6 @@
         "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
         "custom_colors_text": "#121212"
-      }
-    },
-    "multicolumn_8MXBdQ": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_CnQAUX": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Titre_22.jpg",
-            "muted_autoplay": true,
-            "title": "Mark T.",
-            "text": "<p>I used to get that proper heel ache by lunch, then the last couple hours I’m just counting steps till home time. First week in these I clocked it straight away, end of shift I weren’t limping to the car. Still a long day on concrete, but my feet don’t feel battered anymore.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_BUxEJm": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/zNRM-t9IC.jpg",
-            "muted_autoplay": true,
-            "title": "Danny D.",
-            "text": "<p>My old boots felt like dragging bricks about, especially when you’re in and out the van all day. These feel lighter the second you stick ’em on and it actually changes how you move. End of the day my legs feel less heavy and I’m not dreading the next call-out, which says it all.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_qAxAmH": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Titre_24.jpg",
-            "muted_autoplay": true,
-            "title": "Liam R.",
-            "text": "<p>Was sick of sliding about the second it rained. You don’t realise how tense you are till you’re not bracing yourself every step. These feel planted. On wet boards and sloppy ground I’m not doing that little ‘whoa’ shuffle all day trying not to stack it.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_eajPP8": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Titre_17_fc27e648-cdc4-4a93-94b8-3f10cf79ce22.jpg",
-            "muted_autoplay": true,
-            "title": "Chris S.",
-            "text": "<p>I always got sore arches and a hot spot under the ball of my foo, starts off ‘meh’ then by mid-afternoon it’s proper annoying. With these it feels like there’s actual support under you, not just a flat plank. I can be up a ladder, back down, standing about, feet aren’t on fire by the end.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_HpC3h4": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/fDklscE5Sj6HezY.jpg",
-            "muted_autoplay": true,
-            "title": "Tom B.",
-            "text": "<p>I’d get rubbing round the toe and sides, then you spend the whole day walking ‘funny’ to avoid it. That’s what wrecks you: constant irritation, not one big pain. These fit right and I’ve not had a single blister. Best bit is I don’t think about my feet anymore.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_bWCLJa": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/CTSpQRWtYbA5Xyz.jpg",
-            "muted_autoplay": true,
-            "title": "Sarah W.",
-            "text": "<p>I used to get home and my feet were still ‘buzzing’, like they’re vibrating from the floor. Hard to explain unless you’ve done long days on concrete. These feel cushioned in a way that actually lasts through the shift. I’m not crashing on the sofa the second I walk in now.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_CnQAUX",
-        "column_BUxEJm",
-        "column_qAxAmH",
-        "column_eajPP8",
-        "column_HpC3h4",
-        "column_bWCLJa"
-      ],
-      "disabled": true,
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "title": "OVER <strong>15,000 SATISFIED</strong> PROFESSIONALS",
-        "title_highlight_color": "#ffd705",
-        "heading_size": "h2",
-        "button_label": "",
-        "button_link": "",
-        "atc_button_label": "",
-        "atc_product": "",
-        "atc_skip_cart": false,
-        "color_scheme": "background-1",
-        "cards_color_scheme": "bg-overlay",
-        "cards_corner_radius": 20,
-        "stretch_cards": false,
-        "stretched_cards_content_alignment": "center",
-        "image_width": "full",
-        "image_ratio": "square",
-        "media_position": "top",
-        "column_alignment": "center",
-        "desktop_heading_size": 24,
-        "mobile_heading_size": 22,
-        "desktop_text_size": 16,
-        "mobile_text_size": 15,
-        "desktop_text_top_margin": 10,
-        "mobile_text_top_margin": 10,
-        "desktop_container_padding_y": 24,
-        "desktop_container_padding_x": 24,
-        "mobile_container_padding_y": 24,
-        "mobile_container_padding_x": 24,
-        "type": "slide",
-        "autoplay": false,
-        "autoplay_speed": 5,
-        "arrows_color_scheme": "inverse",
-        "transparent_arrows": true,
-        "dots_color_scheme": "inverse",
-        "desktop_full_page": false,
-        "columns_desktop": 3,
-        "slider_desktop": false,
-        "per_move_desktop": 1,
-        "desktop_spacing": 40,
-        "desktop_side_padding": 0,
-        "desktop_padding_calc": true,
-        "desktop_adaptive_height": false,
-        "desktop_dots_position": "hidden",
-        "desktop_arrows_position": "hidden",
-        "columns_mobile": "1",
-        "slider_mobile": true,
-        "enable_mobile_preview": false,
-        "mobile_adaptive_height": false,
-        "mobile_dots_position": "hidden",
-        "mobile_arrows_position": "under",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "custom_colors_background": "#ffffff",
-        "custom_gradient_background": "",
-        "custom_colors_text": "#2e2a39",
-        "custom_colors_solid_button_background": "#dd1d1d",
-        "custom_colors_solid_button_text": "#ffffff",
-        "custom_colors_outline_button": "#dd1d1d",
-        "custom_cards_colors_background": "#f3f3f3",
-        "custom_cards_gradient_background": "",
-        "custom_cards_colors_heading": "#222126",
-        "custom_cards_colors_text": "#2e2a39"
       }
     },
     "horizontal_ticker_YHczrm": {
@@ -942,6 +772,174 @@
         "mobile_padding_bottom": 16,
         "desktop_padding_top": 36,
         "desktop_padding_bottom": 36
+      }
+    },
+    "image_banner_AJxxcD": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image": "shopify://shop_images/ECLAT_10c675b1-4f2b-46e5-9818-e56d97ebf4ff.jpg",
+        "image_1_visibility": "mobile-hidden",
+        "image_2": "shopify://shop_images/Titre_26_07ba218c-de01-498f-8bc8-b6fb62fba881.jpg",
+        "image_2_visibility": "desktop-hidden",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "url": "",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "transparent_container_color": "white",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "multicolumn_8MXBdQ": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_CnQAUX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Titre_22.jpg",
+            "muted_autoplay": true,
+            "title": "Mark T.",
+            "text": "<p>I used to get that proper heel ache by lunch, then the last couple hours I’m just counting steps till home time. First week in these I clocked it straight away, end of shift I weren’t limping to the car. Still a long day on concrete, but my feet don’t feel battered anymore.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_BUxEJm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/zNRM-t9IC.jpg",
+            "muted_autoplay": true,
+            "title": "Danny D.",
+            "text": "<p>My old boots felt like dragging bricks about, especially when you’re in and out the van all day. These feel lighter the second you stick ’em on and it actually changes how you move. End of the day my legs feel less heavy and I’m not dreading the next call-out, which says it all.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_qAxAmH": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Titre_24.jpg",
+            "muted_autoplay": true,
+            "title": "Liam R.",
+            "text": "<p>Was sick of sliding about the second it rained. You don’t realise how tense you are till you’re not bracing yourself every step. These feel planted. On wet boards and sloppy ground I’m not doing that little ‘whoa’ shuffle all day trying not to stack it.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_eajPP8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Titre_17_fc27e648-cdc4-4a93-94b8-3f10cf79ce22.jpg",
+            "muted_autoplay": true,
+            "title": "Chris S.",
+            "text": "<p>I always got sore arches and a hot spot under the ball of my foo, starts off ‘meh’ then by mid-afternoon it’s proper annoying. With these it feels like there’s actual support under you, not just a flat plank. I can be up a ladder, back down, standing about, feet aren’t on fire by the end.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_HpC3h4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/fDklscE5Sj6HezY.jpg",
+            "muted_autoplay": true,
+            "title": "Tom B.",
+            "text": "<p>I’d get rubbing round the toe and sides, then you spend the whole day walking ‘funny’ to avoid it. That’s what wrecks you: constant irritation, not one big pain. These fit right and I’ve not had a single blister. Best bit is I don’t think about my feet anymore.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_bWCLJa": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/CTSpQRWtYbA5Xyz.jpg",
+            "muted_autoplay": true,
+            "title": "Sarah W.",
+            "text": "<p>I used to get home and my feet were still ‘buzzing’, like they’re vibrating from the floor. Hard to explain unless you’ve done long days on concrete. These feel cushioned in a way that actually lasts through the shift. I’m not crashing on the sofa the second I walk in now.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_CnQAUX",
+        "column_BUxEJm",
+        "column_qAxAmH",
+        "column_eajPP8",
+        "column_HpC3h4",
+        "column_bWCLJa"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "OVER <strong>15,000 SATISFIED</strong> PROFESSIONALS",
+        "title_highlight_color": "#ffd705",
+        "heading_size": "h2",
+        "button_label": "",
+        "button_link": "",
+        "atc_button_label": "",
+        "atc_product": "",
+        "atc_skip_cart": false,
+        "color_scheme": "background-1",
+        "cards_color_scheme": "bg-overlay",
+        "cards_corner_radius": 20,
+        "stretch_cards": false,
+        "stretched_cards_content_alignment": "center",
+        "image_width": "full",
+        "image_ratio": "square",
+        "media_position": "top",
+        "column_alignment": "center",
+        "desktop_heading_size": 24,
+        "mobile_heading_size": 22,
+        "desktop_text_size": 16,
+        "mobile_text_size": 15,
+        "desktop_text_top_margin": 10,
+        "mobile_text_top_margin": 10,
+        "desktop_container_padding_y": 24,
+        "desktop_container_padding_x": 24,
+        "mobile_container_padding_y": 24,
+        "mobile_container_padding_x": 24,
+        "type": "slide",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": true,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "columns_desktop": 3,
+        "slider_desktop": false,
+        "per_move_desktop": 1,
+        "desktop_spacing": 40,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "hidden",
+        "desktop_arrows_position": "hidden",
+        "columns_mobile": "1",
+        "slider_mobile": true,
+        "enable_mobile_preview": false,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "hidden",
+        "mobile_arrows_position": "under",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_cards_colors_background": "#f3f3f3",
+        "custom_cards_gradient_background": "",
+        "custom_cards_colors_heading": "#222126",
+        "custom_cards_colors_text": "#2e2a39"
       }
     },
     "image_with_text_mzWHV7": {
@@ -1557,11 +1555,11 @@
   "order": [
     "image_banner_wJPqB7",
     "logo_list_iFmWx9",
-    "image_banner_AJxxcD",
     "image_slider_ATjCXQ",
-    "multicolumn_8MXBdQ",
     "horizontal_ticker_YHczrm",
     "main",
+    "image_banner_AJxxcD",
+    "multicolumn_8MXBdQ",
     "image_with_text_mzWHV7",
     "icon_bar_49ixPj",
     "image_with_text_wYRY87",
