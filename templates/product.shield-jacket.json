@@ -12,6 +12,21 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "trustpilot_stars_Lzepap": {
+          "type": "trustpilot_stars",
+          "settings": {
+            "rating": 5,
+            "star_color": "#00b67a",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#ffffff",
+            "label": "RATED <strong>4.7/5</strong> BY <strong>15,200+ PROS!</strong>",
+            "size": 13,
+            "alignment": "flex-start",
+            "scroll_id": "",
+            "margin_top": 15,
+            "margin_bottom": 15
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -325,6 +340,7 @@
         }
       },
       "block_order": [
+        "trustpilot_stars_Lzepap",
         "title",
         "a6eb81db-40e4-43e0-972f-32db010a4a56",
         "price",
