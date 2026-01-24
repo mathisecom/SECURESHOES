@@ -11,6 +11,7 @@
   "sections": {
     "image_banner_wJPqB7": {
       "type": "image-banner",
+      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "display_id": false,
@@ -74,6 +75,7 @@
         "logo_EpwCjh",
         "logo_c6C4Hj"
       ],
+      "disabled": true,
       "name": "Featured on",
       "settings": {
         "display_id": false,
@@ -100,6 +102,7 @@
     },
     "image_banner_AJxxcD": {
       "type": "image-banner",
+      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "display_id": false,
@@ -184,6 +187,7 @@
         "video_slide_dynfDb",
         "video_slide_XFypq7"
       ],
+      "disabled": true,
       "name": "Image/Video Slider",
       "settings": {
         "display_id": false,
@@ -305,6 +309,7 @@
         "column_HpC3h4",
         "column_bWCLJa"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "display_id": false,
@@ -385,6 +390,7 @@
       "block_order": [
         "text_mM7bcY"
       ],
+      "disabled": true,
       "name": "Horizontal Ticker",
       "settings": {
         "visibility": "always-display",
@@ -970,6 +976,7 @@
         "text_hTgXFT",
         "button_3fMPeN"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "display_id": false,
@@ -1054,6 +1061,7 @@
         "column_wHrEHa",
         "column_8gMdWd"
       ],
+      "disabled": true,
       "name": "Icon Bar",
       "settings": {
         "display_id": false,
