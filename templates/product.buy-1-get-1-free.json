@@ -385,6 +385,7 @@
       "block_order": [
         "text_mM7bcY"
       ],
+      "disabled": true,
       "name": "Horizontal Ticker",
       "settings": {
         "visibility": "always-display",
@@ -436,7 +437,7 @@
         "title": {
           "type": "title",
           "settings": {
-            "text_size": "h1",
+            "text_size": "h2",
             "title_alignment": "left",
             "uppercase_title": false,
             "margin_top": 0,
