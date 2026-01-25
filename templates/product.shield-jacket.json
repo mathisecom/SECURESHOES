@@ -70,6 +70,12 @@
             "margin_bottom": 15
           }
         },
+        "custom_liquid_WkipQR": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<BR>\n✓ High-density Softshell fabric resistant to heavy wear\n<P>\n✓ 4-Way Stretch technology - Total freedom of movement\n<P>\n✓ Waterproof & windproof\n<P>\n✓ Ergonomic & fitted cut\n<P>\n✓ 6 functional pockets strategically positioned"
+          }
+        },
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1": {
           "type": "variant_picker",
           "settings": {
@@ -344,6 +350,7 @@
         "title",
         "a6eb81db-40e4-43e0-972f-32db010a4a56",
         "price",
+        "custom_liquid_WkipQR",
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1",
         "04ba004e-2f54-4936-8b1c-8bcadf6573f6",
         "buy_buttons",
