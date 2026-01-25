@@ -34,7 +34,7 @@
             "title_alignment": "left",
             "uppercase_title": false,
             "margin_top": 0,
-            "margin_bottom": 0
+            "margin_bottom": 9
           }
         },
         "a6eb81db-40e4-43e0-972f-32db010a4a56": {
@@ -55,6 +55,7 @@
         },
         "price": {
           "type": "price",
+          "disabled": true,
           "settings": {
             "layout": "price_first",
             "price_color": "accent-1",
