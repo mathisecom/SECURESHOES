@@ -449,6 +449,23 @@
             "margin_bottom": 12
           }
         },
+        "price": {
+          "type": "price",
+          "settings": {
+            "layout": "price_first",
+            "price_color": "accent-1",
+            "compare_price_color": "text",
+            "displayed_badge": "sale",
+            "icon_scale": 140,
+            "custom_badge_text": "[icon_1] SPECIAL OFFER",
+            "icon_1": "redeem",
+            "filled_icon_1": false,
+            "icon_2": "check_circle",
+            "filled_icon_2": false,
+            "margin_top": 9,
+            "margin_bottom": 15
+          }
+        },
         "custom_liquid_8cD9FV": {
           "type": "custom_liquid",
           "settings": {
@@ -486,24 +503,6 @@
             "scroll_id": "",
             "margin_top": 0,
             "margin_bottom": 9
-          }
-        },
-        "price": {
-          "type": "price",
-          "disabled": true,
-          "settings": {
-            "layout": "price_first",
-            "price_color": "accent-1",
-            "compare_price_color": "text",
-            "displayed_badge": "sale",
-            "icon_scale": 140,
-            "custom_badge_text": "[icon_1] SPECIAL OFFER",
-            "icon_1": "redeem",
-            "filled_icon_1": false,
-            "icon_2": "check_circle",
-            "filled_icon_2": false,
-            "margin_top": 9,
-            "margin_bottom": 15
           }
         },
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1": {
@@ -871,12 +870,12 @@
       "block_order": [
         "trustpilot_stars_TCMqVQ",
         "title",
+        "price",
         "custom_liquid_8cD9FV",
         "bf_size_charts_block_f7XGei",
         "custom_liquid_JePfBr",
         "rapi_rapi_bundle_YVxCXm",
         "a6eb81db-40e4-43e0-972f-32db010a4a56",
-        "price",
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1",
         "04ba004e-2f54-4936-8b1c-8bcadf6573f6",
         "buy_buttons",
