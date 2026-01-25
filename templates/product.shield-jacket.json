@@ -70,6 +70,12 @@
             "margin_bottom": 15
           }
         },
+        "custom_liquid_cK7HHk": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "The TECKRS™ SHIELD Jacket is designed to deliver the protection of professional-grade equipment while preserving the comfort and mobility of a high-end garment.<BR><BR>"
+          }
+        },
         "custom_liquid_ADiqzx": {
           "type": "custom_liquid",
           "settings": {
@@ -351,6 +357,7 @@
         "title",
         "a6eb81db-40e4-43e0-972f-32db010a4a56",
         "price",
+        "custom_liquid_cK7HHk",
         "custom_liquid_ADiqzx",
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1",
         "04ba004e-2f54-4936-8b1c-8bcadf6573f6",
