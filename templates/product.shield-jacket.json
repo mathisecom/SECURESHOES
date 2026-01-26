@@ -354,11 +354,10 @@
         },
         "de158e68-5d0d-4819-a625-e2dabdff87d1": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
             "heading": "Collapsible row",
             "heading_size": "medium",
-            "icon": "check_box",
+            "icon": "",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
