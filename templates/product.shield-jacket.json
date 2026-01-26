@@ -355,16 +355,15 @@
         },
         "de158e68-5d0d-4819-a625-e2dabdff87d1": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Warranty & Return",
             "heading_size": "medium",
             "icon": "",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
             "open": false,
-            "content": "",
+            "content": "<p>30-day trial in your work environment. If our sneakers don’t meet your expectations, we offer a full refund.</p><p><strong>12-month manufacturer’s warranty</strong> covering all material and design defects.</p><p><strong>Free size exchange</strong> within 14 days of receipt.</p><p><strong>Easy returns process:</strong> Contact our customer service with your order number.</p>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
