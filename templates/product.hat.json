@@ -360,6 +360,7 @@
         },
         "collapsible_tab_kVbjE7": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Shipping & Tracking",
             "heading_size": "medium",
