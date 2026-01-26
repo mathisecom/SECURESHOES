@@ -55,6 +55,7 @@
         },
         "price": {
           "type": "price",
+          "disabled": true,
           "settings": {
             "layout": "price_first",
             "price_color": "accent-2",
@@ -354,6 +355,7 @@
         },
         "de158e68-5d0d-4819-a625-e2dabdff87d1": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Collapsible row",
             "heading_size": "medium",
