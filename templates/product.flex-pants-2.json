@@ -1370,55 +1370,56 @@
         "collapsible_row_jm6GEF": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How does the rotary tightening system work?",
+            "heading": "Does the SOLYDIA™ FLEX really withstand heavy-duty use?",
             "icon": "",
             "filled_icon": false,
-            "row_content": "<p>The rotary system works using a dial that you turn clockwise to tighten the shoe and counterclockwise to loosen it. This technology allows for a precise, millimetre-level adjustment in just 2 seconds, offering far greater accuracy and speed than traditional laces.</p>",
+            "row_content": "<p>Yes, the pants are built with high-durability Ripstop Nylon anti-tear seams. Many professionals (plumbers, masons, tilers) report daily use for 4 to 6 months without noticeable wear, even in sensitive areas like the knees and crotch.</p>",
             "page": ""
           }
         },
         "collapsible_row_kD9DVC": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "What’s the difference compared to my current safety shoes?",
+            "heading": "Does the stretch fabric really reduce movement restrictions?",
             "icon": "",
             "filled_icon": false,
-            "row_content": "<p>Our sneakers are <strong>45% lighter</strong> than standard safety shoes while maintaining the same <strong>S3-level protection</strong>.</p><p>The high-density <strong>Memory Foam insole</strong> helps eliminate foot pain, and the modern design looks just like real sneakers. You get the same level of safety, with revolutionary comfort and style.</p>",
+            "row_content": "<p>The 4-Way Stretch fabric provides total freedom of movement in all directions. Whether you're crouching, bending, or climbing, the pants move with your body without pulling or binding, which reduces end-of-day fatigue.</p>",
             "page": ""
           }
         },
         "collapsible_row_GGXH4X": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Do SOLYDIA really meet the S3 safety standard?",
+            "heading": "Do the pants actually keep you warm in winter?",
             "icon": "",
             "filled_icon": false,
-            "row_content": "<p>Our sneakers are certified to the European <strong>EN ISO 20345 S3</strong> standard, guaranteeing a <strong>steel toe cap resistant to 200 joules of impact</strong>, a <strong>Kevlar puncture-resistant sole</strong>, <strong>water resistance</strong>, and <strong>antistatic properties</strong>.</p><p>All tests are validated by <strong>independent certification bodies</strong>.</p>",
+            "row_content": "<p>Yes, thanks to the thermal fleece lining, they effectively maintain body heat even in freezing temperatures. The breathable fabric simultaneously wicks away perspiration, avoiding the unpleasant dampness of low-quality lined pants.</p>",
             "page": ""
           }
         },
         "collapsible_row_Xw7Bkx": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Can I wear them all day without pain?",
+            "heading": "Is the waterproofing effective in real work conditions?",
             "icon": "",
             "filled_icon": false,
-            "row_content": "<p>The high-density <strong>Memory Foam insole</strong> and lightweight construction are specifically designed for long workdays.</p><p>Our sneakers have been tested during <strong>12-hour shifts</strong>. If you experience any discomfort, we offer a <strong>full refund within 30 days</strong>.</p>",
+            "row_content": "<p>The waterproof and breathable fabric effectively repels water, rain, and splashes. Water beads on the surface without soaking in, keeping you dry during outdoor work or in wet weather, while still allowing body heat to escape.</p>",
             "page": ""
           }
         },
         "collapsible_row_XT33VU": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Does the sneaker-style design hold up on construction sites?",
+            "heading": "How many pockets does the pant have and are they practical?",
             "icon": "",
             "filled_icon": false,
-            "row_content": "<p>Although designed with a sneaker look, our sneakers use <strong>high-strength industrial materials</strong>: reinforced mesh, sealed stitching, and a professional <strong>non-slip sole</strong>.</p><p>They withstand <strong>mud, dust, and splashes</strong> while remaining <strong>easy to clean</strong>.</p>",
+            "row_content": "<p>The pants feature 8 ultra-practical pockets, ergonomically designed. They're spacious and well-positioned to hold your daily tools (multimeter, tape measure, phone, etc.) without restricting your movements.</p>",
             "page": ""
           }
         },
         "collapsible_row_gKDne4": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "How do I choose the right size?",
             "icon": "",
