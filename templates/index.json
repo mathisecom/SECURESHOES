@@ -658,6 +658,7 @@
         },
         "shipping_checkpoints_XYpcgC": {
           "type": "shipping_checkpoints",
+          "disabled": true,
           "settings": {
             "icon_1": "add_shopping_cart",
             "filled_icon_1": false,
