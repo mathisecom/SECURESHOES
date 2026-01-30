@@ -74,6 +74,7 @@
         "logo_3tgFrP",
         "logo_JDc7Ck"
       ],
+      "disabled": true,
       "name": "Featured on",
       "settings": {
         "display_id": false,
@@ -1273,7 +1274,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "THE BENEFITS THAT <strong>MAKE THE DIFFERENCE</strong>",
+        "title": "BENEFITS THAT <strong>MAKE THE DIFFERENCE</strong>",
         "title_highlight_color": "#ffd705",
         "heading_size": "h2",
         "text": "",
