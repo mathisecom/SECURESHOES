@@ -101,6 +101,9 @@
     },
     "image_banner_9P9pBB": {
       "type": "image-banner",
+      "custom_css": [
+        "{padding-top:15px;}"
+      ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "display_id": false,
