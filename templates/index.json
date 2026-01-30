@@ -552,7 +552,7 @@
         "custom_liquid_8QUfwR": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<span class=\"badge-lighter\">45% Lighter Than Traditional Boots</span>\n\n<style>\n\n.badge-lighter {\n  display: inline-block;\n  background: #FFD704;\n  color: #000;\n  font-weight: bold;\n  padding: 10px 15px;\n  border-radius: 15px;\n  font-size: 14px;\nmargin-bottom:15px;\n}\n</style>"
+            "custom_liquid": "<span class=\"badge-lighter\">45% Lighter Than Traditional Boots</span>\n\n<style>\n\n.badge-lighter {\n  display: inline-block;\n  background: #FFD704;\n  color: #000;\n  font-weight: bold;\n  padding: 5px 15px;\n  border-radius: 15px;\n  font-size: 14px;\nmargin-bottom:15px;\n}\n</style>"
           }
         },
         "price_ARgakK": {
