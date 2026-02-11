@@ -946,10 +946,11 @@
         "column_Hafq6H": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/Stepprs_Doctor.webp",
             "star_rating": 5,
-            "title": "Heading",
-            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
-            "author": "<em><strong>Author</strong></em>"
+            "title": "Targeted Relief",
+            "text": "<p>As a podiatrist with years of experience treating flat feet and plantar fasciitis, I recommend <strong>SOLYDIA™ insoles</strong>. Their unique design provides targeted arch support, distributes pressure evenly, and reduces tension on the plantar fascia. With regular use, my patients notice significant improvement in their symptoms. I recommend <strong>SOLYDIA</strong>™ as an essential addition to your footwear.</p>",
+            "author": "Dr. Thomas Schneider – Podiatrist"
           }
         }
       },
@@ -962,7 +963,7 @@
         "visibility": "always-display",
         "title": "Why Experts Recommend SOLYDIA™",
         "title_highlight_color": "#6D388B",
-        "heading_size": "h2",
+        "heading_size": "h1",
         "text": "",
         "color_scheme": "background-1",
         "image_width": "full",
@@ -979,7 +980,7 @@
         "autoplay": false,
         "autoplay_speed": 5,
         "arrows_color_scheme": "inverse",
-        "transparent_arrows": true,
+        "transparent_arrows": false,
         "dots_color_scheme": "inverse",
         "desktop_full_page": false,
         "columns_desktop": 1,
@@ -989,13 +990,13 @@
         "desktop_side_padding": 0,
         "desktop_padding_calc": true,
         "desktop_adaptive_height": false,
-        "desktop_dots_position": "under",
-        "desktop_arrows_position": "sides",
-        "slider_mobile": true,
+        "desktop_dots_position": "hidden",
+        "desktop_arrows_position": "hidden",
+        "slider_mobile": false,
         "enable_mobile_preview": false,
         "mobile_adaptive_height": false,
-        "mobile_dots_position": "under",
-        "mobile_arrows_position": "under",
+        "mobile_dots_position": "hidden",
+        "mobile_arrows_position": "hidden",
         "padding_top": 36,
         "padding_bottom": 36,
         "custom_colors_background": "#FFFFFF",
