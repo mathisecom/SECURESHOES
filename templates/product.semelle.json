@@ -602,16 +602,26 @@
           "type": "column",
           "settings": {
             "star_rating": 5,
-            "title": "Heading",
-            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
-            "author": "<em><strong>Author</strong></em>"
+            "title": "Regular Runner",
+            "text": "<p>I run regularly and have tried many insoles. Since using these, my performance has improved and I recover faster. I recommend them to all runners who want to protect their feet and progress.</p>",
+            "author": "<em><strong>Tom G.</strong></em>"
+          }
+        },
+        "column_hbYzPe": {
+          "type": "column",
+          "settings": {
+            "star_rating": 5,
+            "title": "Construction Worker",
+            "text": "<p>I spend my days on concrete wearing safety shoes. These insoles absorb impact perfectly and provide excellent support for my feet. My joints thank me. I’m amazed at the relief. I’ve told all my colleagues about them.</p>",
+            "author": "<em><strong>Gino S.</strong></em>"
           }
         }
       },
       "block_order": [
         "column_AWUwtq",
         "column_FP9FAb",
-        "column_BFJEgY"
+        "column_BFJEgY",
+        "column_hbYzPe"
       ],
       "name": "Testimonials",
       "settings": {
