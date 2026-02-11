@@ -337,7 +337,7 @@
             "collapse_icon": "carret",
             "display_top_border": true,
             "open": false,
-            "content": "",
+            "content": "<p><strong>Is your foot smaller than our smallest size?</strong></p><p>Order the smallest size and trim along the markings on the back.</p><p><strong>Are you between two sizes?</strong></p><p>Always choose the larger size and adjust by trimming.</p><p>Simple. Adjustable. Made for you.</p>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
@@ -353,7 +353,7 @@
             "collapse_icon": "carret",
             "display_top_border": true,
             "open": false,
-            "content": "",
+            "content": "<p>Yes, they are designed to fit your regular shoe size perfectly.</p><ul><li>No need to go up a size or buy new shoes<br/></li><li>Cut-to-fit edges for a perfect fit<br/></li><li>Won’t squeeze your shoes<br/></li><li>Easily fits work boots, sneakers, trainers, and more</li></ul><p>Made for everyday wear — no compression, no guesswork. Just comfort.</p>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
@@ -369,7 +369,7 @@
             "collapse_icon": "carret",
             "display_top_border": true,
             "open": false,
-            "content": "",
+            "content": "<p>Yes, our insoles relieve many foot problems: plantar fasciitis, arch pain, heel pain, and metatarsalgia.</p><p>Their support and cushioning help reduce discomfort and improve the overall health of your feet.</p>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
@@ -385,7 +385,7 @@
             "collapse_icon": "carret",
             "display_top_border": true,
             "open": false,
-            "content": "",
+            "content": "<p>Our insoles are made to last. With proper care, they maintain their comfort and support for over 12 months.</p><p>For optimal lifespan, simply hand wash them occasionally.</p>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
