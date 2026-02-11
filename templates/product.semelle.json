@@ -446,19 +446,19 @@
         "text_rCMUYC": {
           "type": "text",
           "settings": {
-            "title": "Shrine Theme"
+            "title": "15,000+ SATISFIED PROFESSIONALS"
           }
         },
         "text_Tz8ar4": {
           "type": "text",
           "settings": {
-            "title": "Shrine Theme"
+            "title": "✦ WINTER SALE -40% ✦"
           }
         },
         "text_LPyJKM": {
           "type": "text",
           "settings": {
-            "title": "Shrine Theme"
+            "title": "FREE TRACKED SHIPPING"
           }
         }
       },
@@ -470,17 +470,17 @@
       "name": "Horizontal Ticker",
       "settings": {
         "visibility": "always-display",
-        "speed": 3,
+        "speed": 2,
         "direction": "normal",
         "stop_on_hover": false,
-        "mobile_spacing": 60,
+        "mobile_spacing": 45,
         "desktop_spacing": 100,
         "color_scheme": "accent-1",
-        "mobile_text_size": 16,
+        "mobile_text_size": 13,
         "desktop_text_size": 18,
-        "italic_text": false,
-        "uppercase_text": false,
-        "bold_text": false,
+        "italic_text": true,
+        "uppercase_text": true,
+        "bold_text": true,
         "mobile_image_height": 26,
         "desktop_image_height": 40,
         "mobile_reviews_width": 300,
