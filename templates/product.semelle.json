@@ -73,12 +73,14 @@
         },
         "custom_liquid_xYE7k9": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "The <b>SOLYDIA™ WINTER</b> Fleece is designed to deliver the warmth of professional-grade equipment while maintaining the comfort and breathability of a high-end garment.<br><br>"
           }
         },
         "custom_liquid_tW8z4M": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<div class=\"main-product__block main-product__block-custom_liquid\">\n  <div class=\"m-product-text\">\n    <div id=\"productBullets\" style=\"display: flex; flex-direction: column; font-size:13px;\">\n      \n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-bottom: 8px;\">\n        <img class=\"productBulletsItemCheck\"\n             src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\"\n             alt=\"checkmark\"\n             style=\"margin-right: 8px;\">\n        <div class=\"productBulletsItemText body\">\n          High-density anti-pilling microfleece\n        </div>\n      </div>\n\n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-bottom: 8px;\">\n        <img class=\"productBulletsItemCheck\"\n             src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\"\n             alt=\"checkmark\"\n             style=\"margin-right: 8px;\">\n        <div class=\"productBulletsItemText body\">\n          4-Way Stretch technology – total freedom of movement\n        </div>\n      </div>\n\n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-bottom: 8px;\">\n        <img class=\"productBulletsItemCheck\"\n             src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\"\n             alt=\"checkmark\"\n             style=\"margin-right: 8px;\">\n        <div class=\"productBulletsItemText body\">\n          Smart thermal regulation – warmth without overheating\n        </div>\n      </div>\n\n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-bottom: 8px;\">\n        <img class=\"productBulletsItemCheck\"\n             src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\"\n             alt=\"checkmark\"\n             style=\"margin-right: 8px;\">\n        <div class=\"productBulletsItemText body\">\n          Optimal breathability – wicks away body moisture\n        </div>\n      </div>\n\n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center; margin-bottom: 8px;\">\n        <img class=\"productBulletsItemCheck\"\n             src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\"\n             alt=\"checkmark\"\n             style=\"margin-right: 8px;\">\n        <div class=\"productBulletsItemText body\">\n          Ergonomic, tailored fit\n        </div>\n      </div>\n\n      <div class=\"productBulletsItem\" style=\"display: flex; align-items: center;\">\n        <img class=\"productBulletsItemCheck\"\n             src=\"//respire.com/cdn/shop/t/14/assets/icon-checkmark-gray.svg?v=81000485933193867521739833530\"\n             alt=\"checkmark\"\n             style=\"margin-right: 8px;\">\n        <div class=\"productBulletsItemText body\">\n          Functional zippered pockets\n        </div>\n      </div>\n\n    </div>\n  </div>\n</div>"
           }
@@ -438,6 +440,151 @@
         "desktop_padding_bottom": 36
       }
     },
+    "horizontal_ticker_LGkRQi": {
+      "type": "horizontal-ticker",
+      "blocks": {
+        "text_rCMUYC": {
+          "type": "text",
+          "settings": {
+            "title": "Shrine Theme"
+          }
+        },
+        "text_Tz8ar4": {
+          "type": "text",
+          "settings": {
+            "title": "Shrine Theme"
+          }
+        },
+        "text_LPyJKM": {
+          "type": "text",
+          "settings": {
+            "title": "Shrine Theme"
+          }
+        }
+      },
+      "block_order": [
+        "text_rCMUYC",
+        "text_Tz8ar4",
+        "text_LPyJKM"
+      ],
+      "name": "Horizontal Ticker",
+      "settings": {
+        "visibility": "always-display",
+        "speed": 3,
+        "direction": "normal",
+        "stop_on_hover": false,
+        "mobile_spacing": 60,
+        "desktop_spacing": 100,
+        "color_scheme": "accent-1",
+        "mobile_text_size": 16,
+        "desktop_text_size": 18,
+        "italic_text": false,
+        "uppercase_text": false,
+        "bold_text": false,
+        "mobile_image_height": 26,
+        "desktop_image_height": 40,
+        "mobile_reviews_width": 300,
+        "desktop_reviews_width": 400,
+        "hidden_products": "",
+        "enable_specific_display": false,
+        "displayed_products": "",
+        "mobile_padding_top": 12,
+        "mobile_padding_bottom": 12,
+        "desktop_padding_top": 16,
+        "desktop_padding_bottom": 16,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39"
+      }
+    },
+    "testimonials_mVDKQY": {
+      "type": "testimonials",
+      "blocks": {
+        "column_AWUwtq": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/SALES_PAGE_VAR7.webp",
+            "star_rating": 5,
+            "title": "Heading",
+            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
+            "author": "<em><strong>Author</strong></em>"
+          }
+        },
+        "column_FP9FAb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/avis_lynda.webp",
+            "star_rating": 5,
+            "title": "Heading",
+            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
+            "author": "<em><strong>Author</strong></em>"
+          }
+        },
+        "column_BFJEgY": {
+          "type": "column",
+          "settings": {
+            "star_rating": 5,
+            "title": "Heading",
+            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
+            "author": "<em><strong>Author</strong></em>"
+          }
+        }
+      },
+      "block_order": [
+        "column_AWUwtq",
+        "column_FP9FAb",
+        "column_BFJEgY"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h1",
+        "text": "",
+        "color_scheme": "background-1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "column_alignment": "center",
+        "show_stars": true,
+        "inactive_stars_style": "solid",
+        "star_color": "#00b67a",
+        "bg_star_color": "#ececec",
+        "show_quotes": false,
+        "quotes_color_scheme": "accent-2",
+        "cards_color_scheme": "bg-overlay",
+        "type": "slide",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": true,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "columns_desktop": 3,
+        "slider_desktop": false,
+        "per_move_desktop": 1,
+        "desktop_spacing": 40,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "sides",
+        "slider_mobile": true,
+        "enable_mobile_preview": false,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "under",
+        "mobile_arrows_position": "under",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_cards_colors_background": "#F3F3F3",
+        "custom_cards_gradient_background": "",
+        "custom_cards_colors_text": "#2E2A39"
+      }
+    },
     "related-products": {
       "type": "related-products",
       "disabled": true,
@@ -462,6 +609,8 @@
   },
   "order": [
     "main",
+    "horizontal_ticker_LGkRQi",
+    "testimonials_mVDKQY",
     "related-products"
   ]
 }
