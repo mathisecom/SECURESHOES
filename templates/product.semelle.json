@@ -352,6 +352,70 @@
             "margin_bottom": 24
           }
         },
+        "collapsible_tab_A7QkNB": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Small feet? Between sizes?",
+            "heading_size": "medium",
+            "icon": "check_box",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
+        "collapsible_tab_xgUbdM": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Will they fit in my shoes?",
+            "heading_size": "medium",
+            "icon": "check_box",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
+        "collapsible_tab_xqfCGb": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Do they really relieve my pain?",
+            "heading_size": "medium",
+            "icon": "check_box",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
+        "collapsible_tab_k7a9Mh": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "How long do they last?",
+            "heading_size": "medium",
+            "icon": "check_box",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
         "de158e68-5d0d-4819-a625-e2dabdff87d1": {
           "type": "collapsible_tab",
           "settings": {
@@ -386,6 +450,10 @@
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
         "description",
         "reviews_8UgFbe",
+        "collapsible_tab_A7QkNB",
+        "collapsible_tab_xgUbdM",
+        "collapsible_tab_xqfCGb",
+        "collapsible_tab_k7a9Mh",
         "de158e68-5d0d-4819-a625-e2dabdff87d1"
       ],
       "custom_css": [],
