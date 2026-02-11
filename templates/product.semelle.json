@@ -78,6 +78,12 @@
             "custom_liquid": "The <b>SOLYDIA™ WINTER</b> Fleece is designed to deliver the warmth of professional-grade equipment while maintaining the comfort and breathability of a high-end garment.<br><br>"
           }
         },
+        "rapi_rapi_bundle_D4Ym6b": {
+          "type": "shopify://apps/rapi/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
         "custom_liquid_tW8z4M": {
           "type": "custom_liquid",
           "settings": {
@@ -86,6 +92,7 @@
         },
         "bf_size_charts_block_Lw8myR": {
           "type": "shopify://apps/bf-size-charts/blocks/block/47ee4f2e-eb5e-41af-9beb-e2786646bf2a",
+          "disabled": true,
           "settings": {}
         },
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1": {
@@ -438,6 +445,7 @@
         "a6eb81db-40e4-43e0-972f-32db010a4a56",
         "price",
         "custom_liquid_xYE7k9",
+        "rapi_rapi_bundle_D4Ym6b",
         "custom_liquid_tW8z4M",
         "bf_size_charts_block_Lw8myR",
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1",
