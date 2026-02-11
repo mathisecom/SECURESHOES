@@ -685,6 +685,7 @@
           "settings": {
             "icon": "check_circle",
             "filled_icon": false,
+            "image": "shopify://shop_images/c5865eac-aff5-4277-b307-db66721d43f4.avif",
             "title": "Improves Posture",
             "text": "<p>Good arch support promotes better spine alignment.</p>"
           }
@@ -694,6 +695,7 @@
           "settings": {
             "icon": "check_circle",
             "filled_icon": false,
+            "image": "shopify://shop_images/a896ce73-a9a3-4362-a06f-e92715dff161.avif",
             "title": "Boosts Performance",
             "text": "<p>Adds a bounce to every step, making walking and running easier.</p>"
           }
@@ -703,6 +705,7 @@
           "settings": {
             "icon": "check_circle",
             "filled_icon": false,
+            "image": "shopify://shop_images/2eca47ad-ac3d-4047-a268-043f8ed0d9f7.avif",
             "title": "Adjustable Size",
             "text": "<p>Simply cut along the dotted lines with scissors.</p>"
           }
@@ -712,6 +715,7 @@
           "settings": {
             "icon": "check_circle",
             "filled_icon": false,
+            "image": "shopify://shop_images/1e7e3c6d-c886-459b-9125-a0162b1ea652.avif",
             "title": "Easy to Wash",
             "text": "<p>Just wash by hand with soap and water.</p>"
           }
