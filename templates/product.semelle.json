@@ -842,7 +842,7 @@
         "row_AikGNJ": {
           "type": "row",
           "settings": {
-            "benefit": "<strong>Benefit</strong>",
+            "benefit": "<strong>Cushioning</strong>",
             "us": true,
             "others": false,
             "others_2": false,
@@ -852,7 +852,7 @@
         "row_rnWiPy": {
           "type": "row",
           "settings": {
-            "benefit": "<strong>Benefit</strong>",
+            "benefit": "<strong>Breathable</strong>",
             "us": true,
             "others": false,
             "others_2": false,
@@ -862,7 +862,47 @@
         "row_WQ4BgC": {
           "type": "row",
           "settings": {
-            "benefit": "<strong>Benefit</strong>",
+            "benefit": "<strong>Immediate Relief</strong>",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
+        },
+        "row_eWVW69": {
+          "type": "row",
+          "settings": {
+            "benefit": "<strong>Arch Support</strong>",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
+        },
+        "row_W8VWkN": {
+          "type": "row",
+          "settings": {
+            "benefit": "<strong>Shock Absorption</strong>",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
+        },
+        "row_A8MNkA": {
+          "type": "row",
+          "settings": {
+            "benefit": "<strong>Pain-Relief</strong>",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
+        },
+        "row_DHEdU4": {
+          "type": "row",
+          "settings": {
+            "benefit": "<strong>Expensive</strong>",
             "us": true,
             "others": false,
             "others_2": false,
@@ -873,7 +913,11 @@
       "block_order": [
         "row_AikGNJ",
         "row_rnWiPy",
-        "row_WQ4BgC"
+        "row_WQ4BgC",
+        "row_eWVW69",
+        "row_W8VWkN",
+        "row_A8MNkA",
+        "row_DHEdU4"
       ],
       "name": "Comparison table",
       "settings": {
@@ -898,8 +942,9 @@
         "number_of_competitors": 1,
         "us_label": "[shop_name]",
         "us_label_size": 18,
+        "logo": "shopify://shop_images/Logo_3_1_430x_3efdf165-c93d-44ae-ab6a-888d8df2e20f.png",
         "logo_width": 90,
-        "mobile_logo_width": 60,
+        "mobile_logo_width": 75,
         "others_label": "Others",
         "others_label_size": 18,
         "others_logo_width": 90,
