@@ -677,6 +677,97 @@
         "custom_colors_outline_button": "#dd1d1d"
       }
     },
+    "icon_bar_EzgrtU": {
+      "type": "icon-bar",
+      "blocks": {
+        "column_jJtXQU": {
+          "type": "column",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "title": "Improves Posture",
+            "text": "<p>Good arch support promotes better spine alignment.</p>"
+          }
+        },
+        "column_Fzd8mA": {
+          "type": "column",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "title": "Boosts Performance",
+            "text": "<p>Adds a bounce to every step, making walking and running easier.</p>"
+          }
+        },
+        "column_rkf7T7": {
+          "type": "column",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "title": "Adjustable Size",
+            "text": "<p>Simply cut along the dotted lines with scissors.</p>"
+          }
+        },
+        "column_hmQUeb": {
+          "type": "column",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "title": "Easy to Wash",
+            "text": "<p>Just wash by hand with soap and water.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "column_jJtXQU",
+        "column_Fzd8mA",
+        "column_rkf7T7",
+        "column_hmQUeb"
+      ],
+      "name": "Icon Bar",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h1",
+        "text": "",
+        "color_scheme": "background-1",
+        "icon_layout": "vertical",
+        "icon_size": "medium",
+        "icon_color": "accent-1",
+        "cards_color_scheme": "background-1",
+        "type": "slide",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": true,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "columns_desktop": 4,
+        "slider_desktop": false,
+        "per_move_desktop": 1,
+        "desktop_spacing": 40,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "sides",
+        "columns_mobile": "1",
+        "slider_mobile": true,
+        "enable_mobile_preview": false,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "under",
+        "mobile_arrows_position": "under",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_cards_colors_background": "#F3F3F3",
+        "custom_cards_gradient_background": "",
+        "custom_cards_colors_text": "#2E2A39"
+      }
+    },
     "related-products": {
       "type": "related-products",
       "disabled": true,
@@ -705,6 +796,7 @@
     "testimonials_mVDKQY",
     "image_with_text_PRAfCA",
     "comparison_slider_y6AREG",
+    "icon_bar_EzgrtU",
     "related-products"
   ]
 }
