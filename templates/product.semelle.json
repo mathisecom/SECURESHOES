@@ -983,9 +983,9 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "Image/Video slider",
+        "title": "Designed for all uses",
         "title_highlight_color": "#6D388B",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "color_scheme": "background-1",
         "type": "slide",
         "drag": "enabled",
