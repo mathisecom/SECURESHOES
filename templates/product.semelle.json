@@ -926,7 +926,7 @@
           "settings": {
             "image": "shopify://shop_images/Running.webp",
             "link": "",
-            "description": "",
+            "description": "<p><strong>On an adventure</strong></p>",
             "desc_alignment": "center",
             "desc_color_scheme": "inverse"
           }
@@ -936,7 +936,7 @@
           "settings": {
             "image": "shopify://shop_images/Park.webp",
             "link": "",
-            "description": "",
+            "description": "<p><strong>Everyday life</strong></p>",
             "desc_alignment": "center",
             "desc_color_scheme": "inverse"
           }
@@ -946,7 +946,7 @@
           "settings": {
             "image": "shopify://shop_images/Warehouse.webp",
             "link": "",
-            "description": "",
+            "description": "<p><strong>Long day</strong></p>",
             "desc_alignment": "center",
             "desc_color_scheme": "inverse"
           }
@@ -956,7 +956,7 @@
           "settings": {
             "image": "shopify://shop_images/Forest.webp",
             "link": "",
-            "description": "",
+            "description": "<p><strong>Outdoor run</strong></p>",
             "desc_alignment": "center",
             "desc_color_scheme": "inverse"
           }
@@ -966,7 +966,7 @@
           "settings": {
             "image": "shopify://shop_images/Nurse.webp",
             "link": "",
-            "description": "",
+            "description": "<p><strong>Serving others</strong></p>",
             "desc_alignment": "center",
             "desc_color_scheme": "inverse"
           }
