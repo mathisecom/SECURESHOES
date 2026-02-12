@@ -729,6 +729,63 @@
         "custom_section_gradient_background": ""
       }
     },
+    "horizontal_ticker_GW7eyX": {
+      "type": "horizontal-ticker",
+      "blocks": {
+        "text_wDieta": {
+          "type": "text",
+          "settings": {
+            "title": "🌍 Tracked Worldwide Shipping"
+          }
+        },
+        "text_UAQaMj": {
+          "type": "text",
+          "settings": {
+            "title": "😊 15,000+ Happy Customers"
+          }
+        },
+        "text_mcKARK": {
+          "type": "text",
+          "settings": {
+            "title": "🛡️ 30-Day Money-Back Guarantee"
+          }
+        }
+      },
+      "block_order": [
+        "text_wDieta",
+        "text_UAQaMj",
+        "text_mcKARK"
+      ],
+      "name": "Horizontal Ticker",
+      "settings": {
+        "visibility": "always-display",
+        "speed": 2,
+        "direction": "normal",
+        "stop_on_hover": false,
+        "mobile_spacing": 45,
+        "desktop_spacing": 100,
+        "color_scheme": "accent-1",
+        "mobile_text_size": 13,
+        "desktop_text_size": 16,
+        "italic_text": false,
+        "uppercase_text": true,
+        "bold_text": true,
+        "mobile_image_height": 26,
+        "desktop_image_height": 40,
+        "mobile_reviews_width": 300,
+        "desktop_reviews_width": 400,
+        "hidden_products": "",
+        "enable_specific_display": false,
+        "displayed_products": "",
+        "mobile_padding_top": 12,
+        "mobile_padding_bottom": 12,
+        "desktop_padding_top": 16,
+        "desktop_padding_bottom": 16,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39"
+      }
+    },
     "comparison_slider_y6AREG": {
       "type": "comparison-slider",
       "name": "Before & After slider",
@@ -1166,6 +1223,7 @@
     "horizontal_ticker_LGkRQi",
     "testimonials_mVDKQY",
     "image_with_text_PRAfCA",
+    "horizontal_ticker_GW7eyX",
     "comparison_slider_y6AREG",
     "icon_bar_EzgrtU",
     "results_NAdafM",
