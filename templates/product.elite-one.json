@@ -783,9 +783,9 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "image": "shopify://shop_images/ECLAT_10c675b1-4f2b-46e5-9818-e56d97ebf4ff.jpg",
+        "image": "shopify://shop_images/image_42.png",
         "image_1_visibility": "mobile-hidden",
-        "image_2": "shopify://shop_images/Titre_26_07ba218c-de01-498f-8bc8-b6fb62fba881.jpg",
+        "image_2": "shopify://shop_images/image_42_247c21a9-2205-44ad-82d9-df65c8795c6a.png",
         "image_2_visibility": "desktop-hidden",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
@@ -1518,6 +1518,8 @@
         "loox_reviews_loox_dynamic_section_JT3aAD": {
           "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
+            "reviews_to_display": "",
+            "default_tab": "automatic",
             "only_photos": false,
             "aggregated": false,
             "limit": 20,
