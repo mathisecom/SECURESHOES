@@ -279,6 +279,12 @@
             "margin_bottom": 12
           }
         },
+        "custom_liquid_FGRKUh": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<span class=\"badge-lighter\">45% Lighter Than Traditional Safety Boots</span>\n\n<style>\n\n.badge-lighter {\n  display: inline-block;\n  background: #FFD704;\n  color: #000;\n  font-weight: bold;\n  padding: 5px 15px;\n  border-radius: 15px;\n  font-size: 12px;\nmargin-bottom:15px;\n}\n</style>"
+          }
+        },
         "price": {
           "type": "price",
           "disabled": true,
@@ -703,6 +709,7 @@
       "block_order": [
         "trustpilot_stars_TCMqVQ",
         "title",
+        "custom_liquid_FGRKUh",
         "price",
         "custom_liquid_8cD9FV",
         "bf_size_charts_block_f7XGei",
