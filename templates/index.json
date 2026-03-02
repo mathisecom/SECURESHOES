@@ -371,6 +371,17 @@
     "multicolumn_M78Bq3": {
       "type": "multicolumn",
       "blocks": {
+        "column_QUWLdY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Gemini_Generated_Image_d2isqvd2isqvd2is.webp",
+            "muted_autoplay": true,
+            "title": "Liam R.",
+            "text": "<p>Was sick of sliding about the second it rained. You don’t realise how tense you are till you’re not bracing yourself every step. These feel planted. On wet boards and sloppy ground I’m not doing that little ‘whoa’ shuffle all day trying not to stack it.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_kQmqwx": {
           "type": "column",
           "settings": {
@@ -389,17 +400,6 @@
             "muted_autoplay": true,
             "title": "Danny D.",
             "text": "<p>My old boots felt like dragging bricks about, especially when you’re in and out the van all day. These feel lighter the second you stick ’em on and it actually changes how you move. End of the day my legs feel less heavy and I’m not dreading the next call-out, which says it all.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_QUWLdY": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Gemini_Generated_Image_d2isqvd2isqvd2is.webp",
-            "muted_autoplay": true,
-            "title": "Liam R.",
-            "text": "<p>Was sick of sliding about the second it rained. You don’t realise how tense you are till you’re not bracing yourself every step. These feel planted. On wet boards and sloppy ground I’m not doing that little ‘whoa’ shuffle all day trying not to stack it.</p>",
             "link_label": "",
             "link": ""
           }
@@ -439,9 +439,9 @@
         }
       },
       "block_order": [
+        "column_QUWLdY",
         "column_kQmqwx",
         "column_U7U4Lc",
-        "column_QUWLdY",
         "column_PiXMpg",
         "column_HUaEAE",
         "column_97jF8C"
