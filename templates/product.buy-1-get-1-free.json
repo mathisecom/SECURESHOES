@@ -649,7 +649,7 @@
             "icon_spacing": 10,
             "display_price": false,
             "enable_custom_color": true,
-            "custom_color": "#00b67a",
+            "custom_color": "#28ae60",
             "prefix_icon": "shopify://shop_images/cart-plus-svgrepo-com.svg",
             "enable_secondary_btn": false,
             "secondary_btn_label": "Buy It Now",
