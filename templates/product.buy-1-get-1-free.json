@@ -644,12 +644,13 @@
           "settings": {
             "show_dynamic_checkout": false,
             "skip_cart": false,
-            "uppercase_text": true,
+            "uppercase_text": false,
             "icon_scale": 120,
             "icon_spacing": 10,
             "display_price": false,
-            "enable_custom_color": false,
-            "custom_color": "#53af01",
+            "enable_custom_color": true,
+            "custom_color": "#00b67a",
+            "prefix_icon": "shopify://shop_images/cart-plus-svgrepo-com.svg",
             "enable_secondary_btn": false,
             "secondary_btn_label": "Buy It Now",
             "secondary_btn_enable_custom_color": false,
@@ -672,7 +673,6 @@
         },
         "e0a0b690-50df-4ca4-acfd-ce2980696cce": {
           "type": "shipping_checkpoints",
-          "disabled": true,
           "settings": {
             "icon_1": "add_shopping_cart",
             "filled_icon_1": false,
@@ -859,7 +859,6 @@
         },
         "collapsible_tab_4Yfgjj": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
             "heading": "Shipping & Tracking",
             "heading_size": "medium",
@@ -1540,6 +1539,8 @@
         "loox_reviews_loox_dynamic_section_JT3aAD": {
           "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
+            "reviews_to_display": "",
+            "default_tab": "automatic",
             "only_photos": false,
             "aggregated": false,
             "limit": 20,
