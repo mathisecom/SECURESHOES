@@ -99,6 +99,71 @@
         "custom_colors_text": "#121212"
       }
     },
+    "custom_columns_ncdHET": {
+      "type": "custom-columns",
+      "blocks": {
+        "buttons_rKkHr8": {
+          "type": "buttons",
+          "settings": {
+            "column": "col_1",
+            "visibility": "always-display",
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false,
+            "full_width": false,
+            "alignment": "flex-start",
+            "mobile_alignment": "center",
+            "margin_top": 20,
+            "margin_bottom": 0
+          }
+        }
+      },
+      "block_order": [
+        "buttons_rKkHr8"
+      ],
+      "name": "Custom columns",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "color_scheme": "background-1",
+        "columns_count": 4,
+        "column_gap_desktop": 40,
+        "row_gap_desktop": 40,
+        "desktop_vertical_alignment": "center",
+        "column_gap_mobile": 20,
+        "row_gap_mobile": 16,
+        "mobile_vertical_alignment": "flex-start",
+        "col_1_desktop_width": 12,
+        "col_1_mobile_width": 4,
+        "col_1_visibility": "always-display",
+        "col_2_desktop_width": 4,
+        "col_2_mobile_width": 4,
+        "col_2_visibility": "always-display",
+        "col_3_desktop_width": 4,
+        "col_3_mobile_width": 4,
+        "col_3_visibility": "always-display",
+        "col_4_desktop_width": 4,
+        "col_4_mobile_width": 4,
+        "col_4_visibility": "always-display",
+        "col_5_desktop_width": 3,
+        "col_5_mobile_width": 4,
+        "col_5_visibility": "always-display",
+        "col_6_desktop_width": 3,
+        "col_6_mobile_width": 4,
+        "col_6_visibility": "always-display",
+        "padding_top": 36,
+        "padding_bottom": 0,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
     "image_banner_AJxxcD": {
       "type": "image-banner",
       "name": "t:sections.image-banner.presets.name",
@@ -1557,6 +1622,7 @@
   "order": [
     "image_banner_wJPqB7",
     "logo_list_iFmWx9",
+    "custom_columns_ncdHET",
     "image_banner_AJxxcD",
     "image_slider_ATjCXQ",
     "multicolumn_8MXBdQ",
